@@ -1,0 +1,3295 @@
+<!DOCTYPE TEI.2 PUBLIC "-//TEI//DTD TEI Lite 1.0//EN">
+<TEI.2 lang=nl-1900>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>De Hoovenier</title>
+<author key="Tagore, Rabindranath" ref="https://viaf.org/viaf/24608356/">Rabindranath Tagore (1861&ndash;1941)</author>
+<respStmt><resp lang=en>Translation</resp> <name key="Eeden, Frederik van" ref="https://viaf.org/viaf/41874776/">Frederik van Eeden (1860&ndash;1932)</name></respStmt>
+<respStmt><resp lang=en>Transcription</resp> <name key="Hellingman, Jeroen">Jeroen Hellingman</name></respStmt>
+</titleStmt>
+<publicationStmt>
+<publisher>Project Gutenberg</publisher>
+<pubPlace>Urbana, Illinois, USA.</pubPlace>
+<idno type=OLN>#####</idno>
+<idno type=OLW>#####</idno>
+<idno type=OCLC>#####</idno>
+<idno type=LibThing>#####</idno>
+<idno type=PGclearance>20170820000719tagore</idno>
+<idno type=PGDPProjectId>projectID599b405b94391</idno>
+<idno type=PGSrc>57772-Tagore-De-Hoovenier</idno>
+<idno type=epub-id>urn:uuid:0cd983d5-fe93-4135-a2d4-4a2d41db57f4</idno>
+<idno type=PGnum>57772</idno>
+<date>2018-08-25</date>
+<availability lang=nl>
+<p>&availability.nl;
+
+<p>Dit eBoek is geproduceerd door het on-line gedistribueerd correctieteam op <xref url="https://www.pgdp.net/">www.pgdp.net</xref>.
+
+<p>Een Engelse vertaling van dit werk, <hi lang=en><xref url="pg:6686">The Gardener</xref></hi>, is eveneens beschikbaar bij Project Gutenberg.
+
+</availability>
+</publicationStmt>
+<notesStmt>
+    <note type="Description">#####<!--Een korte beschrijving van dit document.--></note>
+</notesStmt>
+<sourceDesc>
+<bibl>
+<author>Rabindranath Tagore</author>
+<title>De Hoovenier</title>
+<date>1921</date>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<encodingDesc lang=nl>
+<p>Dit boek is weergegeven in oorspronkelijke schrijfwijze. Afgebroken woorden aan het einde van de regel zijn stilzwijgend hersteld. Kennelijke zetfouten in het origineel zijn verbeterd. Deze verbeteringen zijn aangegeven in de colofon aan het einde van dit boek.
+
+</encodingDesc>
+<profileDesc>
+    <langUsage lang=nl>
+        <language id=nl-1900>Nederlands (Spelling De Vries-Te Winkel)</language>
+        <language id=nl>Nederlands</language>
+        <language id=en>Engels</language>
+    </langUsage>
+    <textClass lang=en>
+        <keywords>
+            <list>
+                <item>Indic poetry</item>
+                <item>Bengali poetry</item>
+            </list>
+        </keywords>
+    </textClass>
+</profileDesc>
+<revisionDesc>
+    <list>
+        <item>2018-08-25 Begonnen.
+    </list>
+</revisionDesc>
+</teiHeader>
+<text rend="stylesheet(style/classic.css)">
+<front id=frontmatter>
+<div1 id=cover type=Cover>
+
+
+<p><figure id=cover-image rend="image(images/front.jpg)">
+<figDesc>Oorspronkelijke voorkant.</figDesc>
+</figure>
+
+
+
+<pb>
+<div1 id=french type=FrenchTitle>
+
+
+<p rend="align(center) font-size(large)">DE HOOVENIER
+
+
+
+<pb>
+<pb>
+<div1 id=titlepage type=TitlePage>
+
+
+<p><figure id=titlepage-image rend="image(images/titlepage.jpg)">
+<figDesc>Oorspronkelijke titelpagina.</figDesc>
+</figure>
+
+
+
+<titlePage>
+<byline><docAuthor>RABINDRANATH TAGORE</docAuthor></byline>
+
+<docTitle><titlePart>DE HOOVENIER</titlePart></docTitle>
+
+<byline>DOOR
+
+<lb><docAuthor>FREDERIK VAN EEDEN</docAuthor>
+</byline>
+
+
+<docImprint>ZEVENDE TOT TIENDE DUIZEND
+
+<!-- [Illustration] -->
+
+<lb>UITSLUITEND GEAUTORISEERDE VERTALING
+
+<lb>AMSTERDAM&mdash;1921&mdash;W. VERSLUYS
+</docImprint>
+</titlePage>
+
+
+
+<pb n=5 id=pb5>
+</front>
+<body>
+<div1 type=Chapter n=I id=ch1>
+<head>I.</head>
+
+
+<p rend="class(speaker)">DIENAAR.
+
+<p>Ontferm u oover uw dienstknecht, mijn kooningin!
+
+<p rend="class(speaker)">KOONINGIN.
+
+<p>De raad is uiteengegaan en mijn bedienden zijn allen vertrokken. Waarom komt gij zoo laat?
+
+<p rend="class(speaker)">DIENAAR.
+
+<p>Als gij gedaan hebt met de anderen dan is het mijn tijd.
+
+<p>Ik kom vragen wat er voor uwen laatsten dienstknecht te doen is.
+
+<p rend="class(speaker)">KOONINGIN.
+
+<p>Wat kunt gij verwachten, als het te laat is?
+
+<p rend="class(speaker)">DIENAAR.
+
+<p>Maak mij hoovenier in uwen bloemhof.
+
+<p rend="class(speaker)">KOONINGIN.
+
+<p>Wat beteekent die dwaasheid?
+
+<pb n=6 id=pb6><p rend="class(speaker)">DIENAAR.
+
+<p>Ik zal mijn ander werk opgeeven. Ik zal mijn zwaarden en lansen in het stof werpen. Zend mij niet naar verre hooven; vraag mij niet op nieuwe verooveringen uit te gaan. Maar maak mij hoovenier in uwen bloemhof.
+
+<p rend="class(speaker)">KOONINGIN.
+
+<p>En wat zal dan uw werk zijn?
+
+<p rend="class(speaker)">DIENAAR.
+
+<p>De dienst van uwen leedigen tijd.
+
+<p>Ik zal het grazige pad frisch houden waar gij des morgens wandelt, waar uw voeten loovend gegroet zullen worden bij iederen tred, door de bloemen, die verlangen te sterven.
+
+<p>Ik zal u wiegen in een schommel tusschen de takken van den <hi>saptaparna</hi>-boom, waar de vroege avondmaan uw kleed zal trachten te kussen door het loover.
+
+<p>Ik zal de lamp, die brandt naast uw bed, met geurige olie vullen, en uw voetbank versieren met sandel- en safraandeeg in wonderbare teekening.
+
+<pb n=7 id=pb7><p rend="class(speaker)">KOONINGIN.
+
+<p>En wat verlangt ge voor uw loon?
+
+<p rend="class(speaker)">DIENAAR.
+
+<p>Verlof om uw kleine vuisten te omvatten als teere lotos-knoppen en bloemenkeetenen om uw polsen te slaan; om de zoolen van uw voetjes met het roode sap van <hi>asjoka</hi> bloembladen te kleuren, en het plekje stof dat daar nog mocht gebleeven zijn, weg te moogen kussen.
+
+<p rend="class(speaker)">KOONINGIN.
+
+<p>Uw beede is verhoord, mijn dienaar, gij zult de hoovenier zijn in mijn bloemhof.
+
+
+
+
+
+
+
+
+<pb n=8 id=pb8>
+<div1 id=ch2 n=II>
+<head>II.</head>
+
+
+
+<p>O, dichter, de avond valt, uw haar vergraauwt.
+
+<p>Hoort gij, in uw eenzaam gepeins, bericht van het génerzijds?
+
+<milestone unit=tb rend=space>
+
+<p>&bdquo;Het is avond&rdquo; zei de dichter &bdquo;en ik luister of iemand mocht roepen uit het dorp, al is het ook laat.
+
+<p>Ik geef acht, of jonge zwervende harten elkander soms ontmoeten, of twee paar greetige oogen soms muziek verlangen om hun zwijgen te breeken, en om voor hen te spreeken.
+
+<p>Wie zou hun hartstochtelijke zangen vlechten, als ik aan den rand des leevens zat, in beschouwing van den dood en het génerzijds?
+
+<milestone unit=tb rend=space>
+
+<p>De vroege avondster verdwijnt.
+
+<p>De gloed van een dooden-brandstapel sterft langsaam weg bij de stille rivier.
+
+<p>Het koor van jakhalzen schreeuwt van uit den hof van het verlaten huis, in het licht der kwijnende maan.
+
+<pb n=9 id=pb9><p>Als nu een zwerver, na &apos;t verlaten van zijn huis, hier kwam om acht te geeven op den nacht, en met geboogen hoofd te luisteren naar het murmelen der duisternis, wie zou hem dan de geheimen van het Leeven in &apos;t oor fluisteren, als ik mijn deuren sloot en mijzelven trachtte te bevrijden uit sterfelijke banden?
+
+<milestone unit=tb rend=space>
+
+<p>Dat mijn haar vergraauwt is een kleinigheid.
+
+<p>Ik ben altijd eeven jong of eeven oud als de jongste en de oudste van dit dorp.
+
+<p>Sommigen hebben lachjes, lief en eenvoudig, sommigen een schalke tinteling in hun oogen.
+
+<p>Sommigen hebben tranen die in het daglicht opwellen, anderen hebben tranen die in &apos;t duister verborgen blijven.
+
+<p>Zij hebben mij allen noodig, en ik heb geen tijd om oover het hiernamaals te peinzen.
+
+<p>Ik ben van elk een tijdgenoot. Wat maakt het uit dat mijn haar vergraauwt?&rdquo;
+
+
+
+
+
+
+
+
+<pb n=10 id=pb10>
+<div1 id=ch3 n=III>
+<head>III.</head>
+
+
+
+<p>Des morgens wierp ik mijn net uit in de zee.
+
+<p>Uit de donkere diepte haalde ik dingen op van wonderlijk aanzien en vreemde schoonheid. Sommigen glansden als een glimlach, sommigen blonken als tranen, en anderen bloosden als de wangen eener bruid.
+
+<p>Toen ik huiswaarts keerde met mijn dagelijksche vracht, zat mijn lief in den hof en trok ijdelijk de bladen uit een bloem.
+
+<p>Ik weifelde een oogenblik, legde toen aan haar voeten alles wat ik opgehaald had, en wachtte zwijgend.
+
+<p>Zij oogde er naar, en zeide:
+
+<p>&bdquo;Wat voor zonderlinge dingen zijn dat? Ik weet niet waarvoor zij dienen.&rdquo;
+
+<p>Ik boog beschaamd mijn hoofd en dacht: &bdquo;ik heb er niet voor gevochten, ik kocht ze niet op de markt, dat zijn geen waardige geschenken voor haar.&rdquo;
+
+<p>En den heelen nacht dóór wierp ik hen één voor één op straat.
+
+<p>Des morgens <corr sic=kamen>kwamen</corr> reizigers; zij raapten hen op en droegen hen naar verre landen.
+
+
+
+
+
+
+
+
+<pb n=11 id=pb11>
+<div1 id=ch4 n=IV>
+<head>IV.</head>
+
+
+
+<p>Helaas, waarom bouwden ze mijn huis aan den weg die naar de marktplaats voert?
+
+<p>Zij meeren hun volle booten digt bij mijn boomen.
+
+<p>Zij koomen en gaan en dwalen <corr sic="naar&apos;t">naar &apos;t</corr> hun lust.
+
+<p>Ik zijt en let op hen; mijn tijd verstrijkt.
+
+<p>Ik kan hen niet wegjagen. En zoo gaan mijn dagen om.
+
+<milestone unit=tb rend=space>
+
+<p>Nacht en dag klinken hun schreeden bij mijn deur.
+
+<p>Te vergeefs roep ik: &bdquo;Ik ken u niet.&rdquo;
+
+<p>Mijn vingers kennen enkelen hunner, mijn neusgaten kennen anderen, het bloed in mijn aderen schijnt hen te kennen, en mijn droomen kennen sommigen.
+
+<p>Hen wegjagen kan ik niet. Ik roep hen en zeg: &bdquo;Kom in mijn huis wie lust heeft. Komt vrij!&rdquo;
+
+<milestone unit=tb rend=space>
+
+<p>Des morgens luidt de klok in den tempel.
+
+<p>Zij koomen met hun manden in de hand.
+
+<pb n=12 id=pb12><p>Hun voeten zijn roozerood. Het vroege licht van de dageraad is op hun gelaat.
+
+<p>Wegjagen kan ik hen niet. Ik roep hen en zeg: &bdquo;Komt in mijn tuin om bloemen te plukken. Komt gerust.&rdquo;
+
+<milestone unit=tb rend=space>
+
+<p>In den middag klinkt de gong aan de paleis-poort.
+
+<p>Ik weet niet waarom zij hun werk verlaten en treuzelen bij mijn heg.
+
+<p>De bloemen in hun haar zijn bleek en verwelkt; de toonen kwijnen in hun fluiten.
+
+<p>Wegjagen kan ik hen niet. Ik roep hen en zeg: &bdquo;Onder mijn boomen is de schaduw koel. Komt vrienden!&rdquo;
+
+<milestone unit=tb rend=space>
+
+<p>Des nachts sirpen de kreekels in het bosch.
+
+<p>Wie komt er langsaam tot mijn deur en klopt zachtkens?
+
+<p>Vaag zie ik een gelaat, geen woord wordt gesprooken, ooveral-om is de stilte van den heemel.
+
+<p>Wegjagen kan ik mijn stille gast niet. Ik zie naar het gelaat in &apos;t duister en uuren van droomen gaan voorbij.
+
+
+
+
+
+
+
+
+<pb n=13 id=pb13>
+<div1 id=ch5 n=V>
+<head>V.</head>
+
+
+
+<p>Ik ben rusteloos. Mij dorst naar verre dingen.
+
+<p>Mijn ziel gaat uit in verlangen om het kleed aan te raken van de scheemerige verte.
+
+<p>O groot Génerzijds! O dringende roep van uw pijpen.
+
+<p>Ik vergeet, ik vergeet telkens weer, dat ik geen vleugels heb, dat ik voor eeuwig aan deeze plek gebonden ben.
+
+<milestone unit=tb rend=space>
+
+<p>Ik ben greetig en waaksaam, een vreemdeling in een vreemd land.
+
+<p>Uw Adem bereikt mij en fluistert een onmoogelijke verwachting.
+
+<p>Uw spraak wordt door mijn hart gekend als zijn eigene.
+
+<p>O Gij die verre te zoeken zijt, o de dringende roep van uw pijpen.
+
+<p>Ik vergeet, ik vergeet telkens weer, dat ik den weg niet ken, dat ik het gevleugelde paard niet heb.
+
+<pb n=14 id=pb14><p>Ik ben lusteloos, ik ben een zwerver van harte.
+
+<p>In den zonnigen neevel van de kwijnende uuren, welk van uw machtige vizioenen neemt vorm aan in het blaauw des heemels?
+
+<p>O verst verwijderd Eind, o dringende roep van uw pijpen.
+
+<p>Ik vergeet, ik vergeet telkens weer, dat de poorten ooveral geslooten zijn, in het huis waar ik eenzaam woon.
+
+
+
+
+
+
+
+
+<pb n=15 id=pb15>
+<div1 id=ch6 n=VI>
+<head>VI.</head>
+
+
+
+<p>De tamme voogel was in een kooi, de vrije voogel was in &apos;t woud.
+
+<p>Zij ontmoetten elkaar te gezetter tijd, zoo wilde het &apos;t noodlot.
+
+<p>De vrije voogel roept: &bdquo;O geliefde, laat ons vluchten naar &apos;t woud&rdquo;.
+
+<p>De gevangen voogel fluistert: &bdquo;Kom hier, laat ons samen woonen in de kooi&rdquo;.
+
+<p>Zegt de vrije voogel: &bdquo;Waar is ruimte tusschen de tralies om de wieken uit <corr sic=de>te</corr> slaan?&rdquo;
+
+<p>&bdquo;Helaas!&rdquo; roept de gekooide voogel: &bdquo;Ik weet niet waar ik zou kunnen neerzitten in den vrijen heemel.&rdquo;
+
+<milestone unit=tb rend=space>
+
+<p>De vrije voogel roept: &bdquo;Mijn lieveling, zing het lied der woudstreeken.&rdquo;
+
+<p>De kooi-voogel zegt: &bdquo;Zit bij mij neer, ik zal u de taal der wijzen leeren!&rdquo;
+
+<p>De woudvoogel roept: &bdquo;O neen! neen! zangen kunnen nooit geleerd worden.&rdquo;
+
+<p>De kooi-voogel zegt: &bdquo;Wee mij! ik ken de zangen der woudstreeken niet.&rdquo;
+
+<pb n=16 id=pb16><p>Hun liefde is heftig van verlangen, maar zij kunnen nooit vliegen wiek aan wiek.
+
+<p>Zij zien door de tralies van de kooi, en te vergeefs is hun wensch om elkander te kennen.
+
+<p>Zij fladderen met hun vleugels in verlangen en zingen: &bdquo;Kom digterbij, mijn geliefde!&rdquo;
+
+<p>De vrije voogel roept: &bdquo;Het gaat niet, ik ben bang voor de geslooten deurtjes van de kooi.&rdquo;
+
+<p>De kooi-voogel fluistert: <corr sic=",">&bdquo;</corr>Helaas, mijn wieken zijn machteloos en dood.&rdquo;
+
+
+
+
+
+
+
+
+<pb n=17 id=pb17>
+<div1 id=ch7 n=VII>
+<head>VII.</head>
+
+
+
+<p>O moeder, de jonge Prins zal onze deur voorbij koomen&mdash;hoe kan ik dan aan mijn werk blijven van ochtend?
+
+<p>Toon mij hoe ik mijn haar moet vlechten; zeg mij wat kleed ik zal aantrekken.
+
+<p>Waarom zie je zoo verwonderd naar mij, moeder?
+
+<p>Ik weet wel dat hij niet zal opzien naar mijn vensters; ik weet dat hij in een oogwenk uit mijn gezicht zal zijn; alleen de wegstervende zang van de fluit zal klagend tot mij koomen van verre.
+
+<p>Maar de jonge Prins zal onze deur voorbij koomen en ik zal mij voor dat oogenblik op mijn best kleeden.
+
+<milestone unit=tb rend=space>
+
+<p>O moeder, de jonge Prins is onze deur voorbij gekoomen en de morgenzon flikkerde van zijn wagen.
+
+<p>Ik vaagde de sluyer van mijn gelaat weg, ik reet het robijn-snoer van mijn hals en wierp het op zijn pad.
+
+<pb n=18 id=pb18><p>Waarom zie je zoo verwonderd naar mij, moeder?
+
+<p>Ik weet wel dat hij mijn snoer niet opnam; ik weet dat het verbrijzeld werd onder zijn wielen en een roode vlek liet op het stof, en niemand weet wat mijn gave was, noch voor wien.
+
+<p>Maar de jonge Prins is onze deur voorbij gekoomen en ik wierp de juweelen van mijn borst op zijn weg.
+
+
+
+
+
+
+
+
+<pb n=19 id=pb19>
+<div1 id=ch8 n=VIII>
+<head>VIII.</head>
+
+
+
+<p>Toen de lamp uitdoofde naast mijn bed, ontwaakte ik met de vroege voogels.
+
+<p>Ik zat voor mijn oopen venster, met een versche krans op mijn los haar.
+
+<p>De jonge reiziger kwam den weg af in de roze morgenneevel.
+
+<p>Een paerelsnoer was om zijn hals en de zonnestralen vielen op zijn kruin.
+
+<p>Hij stond stil voor mijn deur en vroeg mij met een greetigen uitroep: &bdquo;Waar is zij?&rdquo;
+
+<p>Van louter schaamte kon ik niet zeggen: &bdquo;Zij is Ik, jonge reiziger, Zij is Ik.&rdquo;
+
+<milestone unit=tb rend=space>
+
+<p>Het scheemerde en de lamp brandde niet.
+
+<p>Lusteloos vlechtte ik mijn haren.
+
+<p>De jonge reiziger kwam op zijn wagen in den gloed der ondergaande zon.
+
+<p>De paarden schuimbekten en er was stof op zijn gewaad.
+
+<p>Hij stapte uit voor mijn deur en vroeg met vermoeide stem: &bdquo;Waar is zij?&rdquo;
+
+<pb n=20 id=pb20><p>Van louter schaamte kon ik niet zeggen: &bdquo;Zij is Ik, moede reiziger, Zij is Ik.&rdquo;
+
+<milestone unit=tb rend=space>
+
+<p>Het is een Aprilnacht. De lamp brandt in mijn kamer.
+
+<p>Zachtkens komt de Zuidewind. De praatzieke papagaai slaapt in zijn kooi.
+
+<p>Mijn keurs heeft de kleur van een paauwehals, mijn mantel is groen als jong gras.
+
+<p>Ik zit op den vloer bij &apos;t venster en let op de verlaten straat.
+
+<p>Door den donkeren nacht blijf ik neurieën: &bdquo;Zij is Ik, vertwijfelend reiziger, Zij is Ik.&rdquo;
+
+
+
+
+
+
+
+
+<pb n=21 id=pb21>
+<div1 id=ch9 n=IX>
+<head>IX.</head>
+
+
+
+<p>Als ik des nachts alleen naar de samenkomst van minne ga, dan zingen de voogels niet, de wind roert zich niet, stom staan de huizen ter weerszij van de straat.
+
+<p>Het zijn mijn eigen enkel-ringen, die luidruchtig worden bij elken stap, en ik schaam mij.
+
+<p>Als ik op mijn balkon zit en naar zijn voetstap luister, dan ritselen de bladen niet aan de boomen, het water in de rivier is stom als het zwaard op de knieën van een ingeslapen schildwacht.
+
+<p>Het is mijn eigen hart dat wild slaat&mdash;ik weet niet hoe ik het zal doen bedaren.
+
+<p>Als mijn geliefde komt en aan mijn zijde zit, als mijn lijf beeft en mijn oogleeden needergaan, dan wordt de nacht donker, de wind blaast de lamp uit, en de wolken trekken sluyers oover de starren.
+
+<p>Het is het juweel op mijn eigen borst dat glans en licht geeft. Ik weet niet hoe ik het moet verbergen.
+
+
+
+
+
+
+
+
+<pb n=22 id=pb22>
+<div1 id=ch10 n=X>
+<head>X.</head>
+
+
+
+<p>Laat uw arbeid staan, bruid. Luister, de gast is gekoomen.
+
+<p>Hoort ge? hij rammelt zachtkens aan de ketting die de deur digt houdt.
+
+<p>Let op dat uw enkelringen geen luid gerucht maken, en dat uw stap niet te haastig is bij het hem tegemoet gaan.
+
+<p>Laat uw arbeid staan, bruid, in den avond is de gast gekoomen.
+
+<milestone unit=tb rend=space>
+
+<p>Neen! het is niet de spookachtige wind, bruid, wees niet verschrikt.
+
+<p>Het is de volle maan in een Aprilnacht; de schaduwen zijn bleek in den binnenhof; de heemel omhoog is helder.
+
+<p>Trek de sluyer oover uw gelaat als het zijn moet, draag uw lamp tot de deur als ge bang zijt.
+
+<p>Neen, het is niet de spook-wind, bruid, wees niet bevreesd.
+
+<p>Spreek niet tot hem, als ge bedeesd zijt; sta terzijde van de deur bij de ontmoeting.
+
+<pb n=23 id=pb23><p>Als hij u vragen vraagt, en ge wenscht het, dan kunt ge uw oogen zwijgend neerslaan.
+
+<p>Laat uw armringen niet rinkelen, als ge hem binnenleidt, met de lamp in uw hand.
+
+<p>Spreek niet tot hem als ge bedeesd zijt.
+
+<milestone unit=tb rend=space>
+
+<p>Is uw arbeid nog niet gedaan, bruid? Luister, de gast is gekoomen.
+
+<p>Hebt ge de lamp in de koestal niet aangestooken?
+
+<p>Hebt ge het offermandje niet gereed voor den avond-dienst?
+
+<p>Hebt ge het roode geluksmerk niet geplaatst bij de scheiding van uw haar, en uw toilet gemaakt voor den nacht?
+
+<p>O Bruid, hoort ge &apos;t, de gast is gekoomen?
+
+<p>Laat uw arbeid staan.
+
+
+
+
+
+
+
+
+<pb n=24 id=pb24>
+<div1 id=ch11 n=XI>
+<head>XI.</head>
+
+
+
+<p>Kom zooals je bent; treuzel niet met je toilet.
+
+<p>Als je gevlochten haar losgegaan is, als je scheiding niet recht is, als de linten van je keursje niet vastgestrikt zijn, let er niet op.
+
+<p>Kom zooals je bent, treuzel niet met je toilet.
+
+<milestone unit=tb rend=space>
+
+<p>Kom, met vlugge stappen oover &apos;t gras.
+
+<p>Als het roode kleursel door den daauw is afgegaan van je voeten, als de ringen met belletjes van je voeten losgaan, als paerelen uit je snoer vallen, let er niet op.
+
+<p>Kom, met vlugge stappen oover &apos;t gras.
+
+<milestone unit=tb rend=space>
+
+<p>Zie je hoe de wolken den heemel omhullen?
+
+<p>Vluchten kraanvoogels vliegen op van de ooverkant der rivier, en plotselinge windstooten vliegen oover de heide.
+
+<p>Het angstige vee rent naar zijn stalling in het dorp.
+
+<p>Zie je de wolken die den heemel omhullen?
+
+<pb n=25 id=pb25><p>Te vergeefs steek je je toilet-lamp aan.&mdash;Zij flakkert en dooft uit in den wind.
+
+<p>Wie kan weeten dat je oogleeden niet met lamp-zwart zijn bestreeken?
+
+<p>Want je oogen zijn donkerder dan reegenwolken.
+
+<p>Te vergeefs steek je je toilet-lamp aan&mdash;ze gaat uit.
+
+<milestone unit=tb rend=space>
+
+<p>Kom zooals je bent; treuzel niet met je toilet.
+
+<p>Al is de krans niet gevlochten, wie geeft er om? Is de armband niet geslooten, laat haar zoo.
+
+<p>De heemel is met wolken ooverdekt. Het is laat.
+
+<p>Kom zooals je bent; treuzel niet met je toilet.
+
+
+
+
+
+
+
+
+<pb n=26 id=pb26>
+<div1 id=ch12 n=XII>
+<head>XII.</head>
+
+
+
+<p>Als ge werk wilt doen en uw waterkruik vullen, kom tot mijn Meer, o kom!
+
+<p>Het water zal zich om uw voeten sluiten en zijn geheim uitbabbelen.
+
+<p>De schaduw van den koomenden reegen is op het zand, en de wolken hangen laag op de blaauwe boom-kontoeren, zooals het zware haar booven uw wenkbraauwen.
+
+<p>Ik ken het ritme van uw schreeden wel, zij kloppen in mijn hart.
+
+<p>Kom tot mijn Meer, o kom, als ge uw kruik moet vullen.
+
+<milestone unit=tb rend=space>
+
+<p>Wilt ge leedig zitten en droomen en uw kruik laten drijven op het water, kom tot mijn Meer, o kom!
+
+<p>De grazige oeverglooying is groen, en de wilde bloemen zijn ontelbaar.
+
+<p>Uw gedachten zullen uit uw donkere oogen dwalen als voogels uit hun nest.
+
+<p>Uw sluyer zal aan uw voeten vallen.
+
+<pb n=27 id=pb27><p>Kom tot mijn Meer, o kom! als ge werkeloos zitten wilt.
+
+<milestone unit=tb rend=space>
+
+<p>Wilt ge uw spel laten rusten en duiken in &apos;t water, kom tot mijn Meer, o kom.
+
+<p>Laat uw blaauwe mantel aan den oever liggen; het blaauwe water zal u kleeden en verbergen.
+
+<p>De golfjes zullen op hun teenen gaan staan om uw hals te kussen en in uw oor te fluisteren.
+
+<p>Kom tot mijn Meer, o kom, als ge in &apos;t water wilt duiken.
+
+<milestone unit=tb rend=space>
+
+<p>Moet gij razend zijn en in uw dood springen, kom tot mijn Meer, o kom!
+
+<p>Het is koel en grondeloos diep. Het is donker als droomlooze slaap.
+
+<p>In zijn diepten daar is nacht en dag gelijk, en zangen zijn er stilte.
+
+<p>Kom tot mijn Meer, o kom! als ge wilt duiken naar uw dood.
+
+
+
+
+
+
+
+
+<pb n=28 id=pb28>
+<div1 id=ch13 n=XIII>
+<head>XIII.</head>
+
+
+
+<p>Ik vroeg niets, ik stond alleen aan den woudrand achter den boom.
+
+<p>Vaak lag nog op de oogen van den dageraad, en de daauw was in de lucht.
+
+<p>De loome geur van het vochtige gras <sic>hong</sic> in de dunne neevel booven de aarde.
+
+<p>Onder den banjan-boom melkte je de koe met je handen, die week en frisch zijn als booter.
+
+<p>En ik stond stil.
+
+<milestone unit=tb rend=space>
+
+<p>Ik zeide geen woord. De voogel zong ongezien in het struweel.
+
+<p>De mango-boom strooide zijn bloemen op den dorpsweg, en zoemend kwamen de bijen, één voor één.
+
+<p>Naast den vijver was de poort van Shiwa&apos;s tempel geöopend en de geloovige had zijn zangen begonnen.
+
+<p>Met de emmer op je schoot melkte je de koe.
+
+<p>Ik stond met mijn leedige kruik.
+
+<pb n=29 id=pb29><p>Ik kwam niet digt bij je.
+
+<p>Bij de klank van de gong aan den tempel ontwaakte de heemel.
+
+<p>Het stof wolkte op door de hoeven van het voortgedreeven vee op den weg.
+
+<p>Vrouwen kwamen van de rivier, met de klotsende kruiken op hun heup.
+
+<p>Je armbanden rinkelden en het schuim stond aan den rand van de emmer.
+
+<p>De morgen verging en ik kwam niet digt bij je.
+
+
+
+
+
+
+
+
+<pb n=30 id=pb30>
+<div1 id=ch14 n=XIV>
+<head>XIV.</head>
+
+
+
+<p>Ik wandelde langs den weg, ik weet niet waarom, toen de middag voorbij was en bamboestengels ritselden in den wind.
+
+<p>De liggende schaduwen omklemden met uitgestrekte armen de voeten van het vliedende licht.
+
+<p>De &bdquo;<hi>Koëls</hi>&rdquo; waren zingensmoede.
+
+<p>Ik wandelde langs den weg, ik weet niet waarom.
+
+<milestone unit=tb rend=space>
+
+<p>De hut aan de waterkant wordt beschaduwd door een ooverhangende boom.
+
+<p>Iemand was er beezig met haar werk, en in een hoek maakten haar ringen muziek.
+
+<p>Ik stond voor deeze hut, ik weet niet waarom.
+
+<milestone unit=tb rend=space>
+
+<p>De smalle kronkelweg kruist meenig mostertveld en meenig mango-bosch.
+
+<p>Hij gaat voorbij den dorpstempel en voorbij de markt aan de rivier-kade.
+
+<p>Ik hield stil bij deeze hut, ik weet niet waarom.
+
+<pb n=31 id=pb31><p>Jaren geleeden was het een winderige dag in Maart, het lente-gerucht was droomerig en mango-bloesems vielen op het stof.
+
+<p>Het kabbelend water sprong op en lekte de koperen kan die op de landings-treeden stond.
+
+<p>Ik denk aan die winderige dag in Maart, ik weet niet waarom.
+
+<milestone unit=tb rend=space>
+
+<p>De schaduwen donkeren en het vee keert naar zijn stallen.
+
+<p>Op de eenzame weiden is het licht graauw, en de dorpelingen wachten aan den oever op de veerboot.
+
+<p>Ik keer langsaam terug op mijn schreeden&mdash;ik weet niet waarom.
+
+
+
+
+
+
+
+
+<pb n=32 id=pb32>
+<div1 id=ch15 n=XV>
+<head>XV.</head>
+
+
+
+<p>Ik ren als het muskus-hert rent in de schaduw van het woud, dol door zijn eigen geur.
+
+<p>De nacht is midden-Mei-nacht, de wind is Zuide-wind.
+
+<p>Ik raak van mijn pad af en ik ga dwalen, ik zoek wat ik niet krijgen kan, ik krijg wat ik niet zoek.
+
+<milestone unit=tb rend=space>
+
+<p>Het beeld van mijn eigen begeerte komt uit mijn hart en danst.
+
+<p>Het stralend vizioen vliedt heen.
+
+<p>Ik tracht het vast te grijpen, het ontwijkt me en leidt me van mijn weg af.
+
+<p>Ik zoek wat ik niet krijgen kan, ik krijg wat ik niet zoek.
+
+
+
+
+
+
+
+
+<pb n=33 id=pb33>
+<div1 id=ch16 n=XVI>
+<head>XVI.</head>
+
+
+
+<p>Handen houden handen vast en oogen verwijlen aan oogen; zoo begint het verhaal onzer harten.
+
+<p>Het is de maanlichte Maart-nacht; de zoete geur van <hi>henna</hi> is in de lucht; mijn fluit ligt vergeeten op den grond en de bloemenkrans is onvoltooid.
+
+<p>Deeze liefde tusschen jou en mij is eenvoudig als een lied.
+
+<milestone unit=tb rend=space>
+
+<p>Je saffraankleurige sluyer maakt mijn oogen dronken.
+
+<p>De jasmijn-krans, die je voor mij vlocht, doet mijn hart tintelen als vleierij.
+
+<p>Het is een spel van geeven en terughouden, van oopenbaren en weer verbergen; wat glimlachjes, een weinig schuchterheid, en enkele zoete, vergeefsche worstelingen.
+
+<p>Deeze liefde tusschen jou en mij is eenvoudig als een lied.
+
+<pb n=34 id=pb34><p>Geen geheimenis verder dan het heeden, geen streeven naar het onmoogelijke, geen schaduw achter de bekooring, geen reiken in de diepten van duisternis.
+
+<p>Deeze liefde tusschen jou en mij is eenvoudig als een lied.
+
+<milestone unit=tb rend=space>
+
+<p>Wij dwalen niet van uit alle woorden tot het eeuwig stille; we strekken onze handen niet uit in het leedig, naar dingen verder dan alle hoop.
+
+<p>Het volstaat dat wij geeven en krijgen.
+
+<p>We verpletteren de vreugde niet tot het uiterste, om er de wijn van smart uit te persen.
+
+<p>Deeze liefde tusschen jou en mij is eenvoudig als een lied.
+
+
+
+
+
+
+
+
+<pb n=35 id=pb35>
+<div1 id=ch17 n=XVII>
+<head>XVII.</head>
+
+
+
+<p>De geele vogel zingt in hun boom en doet mijn hart van blijdschap dansen.
+
+<p>Wij woonen in hetzelfde dorp, en dat is ons eenig stukje vreugd.
+
+<p>Haar lievelings-lammer-paar komt grazen in de schaduw van de boomen in onzen tuin.
+
+<p>Als zij op onzen gerst-akker afdwalen, neem ik hen in mijn armen.
+
+<p>De naam van ons dorp is Khanjaná, en Anjaná noemt men onzen stroom.
+
+<p>Mijn naam weet ieder in &apos;t dorp, en zij heet Ranjaná.
+
+<milestone unit=tb rend=space>
+
+<p>Maar één akker ligt er tusschen ons.
+
+<p>Bijen die nestelen in ons boschje, gaan hoonig zoeken in het hare.
+
+<p>Bloemen aan haar landing-treeden te water gelaten, drijven met den stroom voorbij, waar wij baden.
+
+<p>Mandjes gedroogde <hi>Koesm</hi>-bloemen koomen van hun velden op onze markt.
+
+<pb n=36 id=pb36><p>De naam van ons dorp is Khanjaná, en Anjaná noemt men onzen stroom.
+
+<p>Mijn naam weet ieder in het dorp en zij heet Ranjaná.
+
+<milestone unit=tb rend=space>
+
+<p>Het wegje dat kronkelt tot hun huis, geurt in &apos;t voorjaar van mangobloemen.
+
+<p>Als hun vlas rijp is voor den oogst dan bloeit de hennip op onzen akker.
+
+<p>De sterren, die hun huisje toelachen, zenden ons denzelfden fonkel-blik.
+
+<p>De reegen die hun vijver doet volstroomen, verheugt ons <hi>kadam</hi>-bosch.
+
+<p>De naam van ons dorp is Khanjaná, en Anjaná noemt men onzen stroom.
+
+<p>Mijn naam weet ieder in het dorp en zij heet Ranjaná.
+
+
+
+
+
+
+
+
+<pb n=37 id=pb37>
+<div1 id=ch18 n=XVIII>
+<head>XVIII.</head>
+
+
+
+<p>Als de twee zusters water gaan halen, dan glimlachen ze, als ze op deeze plek koomen.
+
+<p>Ze moeten &apos;t bespeuren, dat iemand achter de boomen staat, als ze gaan om water te halen.
+
+<milestone unit=tb rend=space>
+
+<p>De twee zusters fluisteren tot elkaar, als ze deeze plek voorbij gaan.
+
+<p>Ze moeten het geheim geraden hebben, van dien iemand, die achter de boomen staat als zij water gaan halen.
+
+<milestone unit=tb rend=space>
+
+<p>Haar kruiken wankelen op eens en morsen water als ze op deeze plaats koomen.
+
+<p>Ze moeten &apos;t gemerkt hebben, dat iemands hart klopt, die achter de boomen staat, als zij water gaan halen.
+
+<milestone unit=tb rend=space>
+
+<p>De twee zusters oogen naar elkaar, als zij op deeze plek koomen, en zij glimlachen.
+
+<p>Er is een lach in hun snel-stappende voeten, die verwarring brengt in de ziel van iemand, die achter de boomen staat, altijd als ze water gaan halen.
+
+
+
+
+
+
+
+
+<pb n=38 id=pb38>
+<div1 id=ch19 n=XIX>
+<head>XIX.</head>
+
+
+
+<p>Je liep langs het pad aan den rivier-oever, met de volle kruik op de heup.
+
+<p>Waarom keerde je snel je gelaat, en zag naar mij door je wuivende sluyer?
+
+<p>Die stralende blik uit het donker trof mij als de bries, die een huivering zendt oover het rimpelend water en wegvlucht naar den scheemerigen oever.
+
+<p>Hij kwam tot mij als de avondvoogel, die haastig door een lamplooze kamer vliegt, van &apos;t eene oopen venster tot het andere, om te verdwijnen in den nacht.
+
+<p>Je bent verborgen als een ster achter de heuvelen, en ik ben een voorbijganger op den weg.
+
+<p>Maar waarom hield je een oogenblik stil en oogde naar mijn gelaat door je sluyer, toen je langs het oeverpad liep met de volle kruik op de heup?
+
+
+
+
+
+
+
+
+<pb n=39 id=pb39>
+<div1 id=ch20 n=XX>
+<head>XX.</head>
+
+
+
+<p>Dag aan dag komt hij, en gaat weer heen.
+
+<p>Ga, mijn vriend, en geef hem een bloem uit mijn haar.
+
+<p>Als hij vraagt wie haar zond, zeg hem dan mijn naam niet, bid ik je&mdash;want hij komt maar, en gaat weer heen.
+
+<milestone unit=tb rend=space>
+
+<p>Hij zit op het stof onder den boom.
+
+<p>Spreid hem daar een zitplaats met bloemen en bladen, mijn vriend.
+
+<p>Zijn oogen zijn droef, en zij brengen droefheid in mijn hart.
+
+<p>Hij zegt niet wat er in hem omgaat; hij komt maar, en gaat weer heen.
+
+
+
+
+
+
+
+
+<pb n=40 id=pb40>
+<div1 id=ch21 n=XXI>
+<head>XXI.</head>
+
+
+
+<p>Waarom verkoos hij aan mijn deur te koomen, de zwervende jongeling, bij het aanbreeken van den dag?
+
+<p>Bij het thuiskomen en het uitgaan ga ik hem vóór, en mijn blik wordt getrokken door zijn gelaat.
+
+<p>Ik weet niet of ik hem zal aanspreeken, of zwijgen. Waarom verkoos hij aan mijn deur te koomen?
+
+<milestone unit=tb rend=space>
+
+<p>Donker zijn de bewolkte nachten in Juli; zacht-blaauw is de heemel in den herfst; de lentedagen zijn onrustig door de Zuidewind.
+
+<p>En telkenmale weeft hij zijn liederen met nieuwe wijzen.
+
+<p>Ik keer mij af van mijn werk en mijn oogen vullen zich met den neevel. Waarom verkoos hij aan mijn deur te koomen?
+
+
+
+
+
+
+
+
+<pb n=41 id=pb41>
+<div1 id=ch22 n=XXII>
+<head>XXII.</head>
+
+
+
+<p>Toen zij mij met vlugge stappen voorbij ging, raakte mij de zoom van haar kleed.
+
+<p>Van het onbekende eiland eens harten kwam een plotselinge warme lente-adem.
+
+<p>Het wapperen van een vluchtige beroering bestreek mij, en verdween oogenblikkelijk, als een losgerukt bloembad in den wind.
+
+<p>Het raakte mijn hart als een zucht van haar lichaam en een fluistering van haar hart.
+
+
+
+
+
+
+
+
+<pb n=42 id=pb42>
+<div1 id=ch23 n=XXIII>
+<head>XXIII.</head>
+
+
+
+<p>Waarom zit je hier en rinkelt met je armbanden uit louter tijdverdrijf?
+
+<p>Vul je kruik. Het is tijd om huiswaarts te gaan.
+
+<milestone unit=tb rend=space>
+
+<p>Waarom roer je in &apos;t water met je handen en zie je af-en-toe uit oover den weg, naar iemand, uit louter tijdverdrijf?
+
+<p>Vul je kruik en keer huiswaarts.
+
+<milestone unit=tb rend=space>
+
+<p>De morgenuuren gaan voorbij&mdash;het donkere water vliet voort.
+
+<p>De golven lachen en fluisteren tot elkaar uit louter tijdverdrijf.
+
+<p>De zwervende wolken hebben zich verzameld aan des heemels rand op gindsche hoogten.
+
+<milestone unit=tb rend=space>
+
+<p>Zij dralen en zien u in &apos;t gelaat uit louter tijdverdrijf.
+
+<p>Vul je kruik en keer huiswaarts.
+
+
+
+
+
+
+
+
+<pb n=43 id=pb43>
+<div1 id=ch24 n=XXIV>
+<head>XXIV.</head>
+
+
+
+<p>Mijn vriend, houd het geheim uws harten niet voor u.
+
+<p>Zeg het mij, mij alleen, heimelijk.
+
+<p>Gij, die zoo minnelijk glimlacht, fluister het zachtjens, mijn hart zal het hooren, mijn ooren niet.
+
+<milestone unit=tb rend=space>
+
+<p>De nacht is diep, het is stil, de voogelnesten zijn door slaap omfloersd.
+
+<p>Spreek tot mij, door beschroomde tranen, door weifelende glimlachjes, door zoete schaamte en smart, zeg het geheim uws harten.
+
+
+
+
+
+
+
+
+<pb n=44 id=pb44>
+<div1 id=ch25 n=XXV>
+<head>XXV.</head>
+
+
+
+<p>&bdquo;Kom bij ons, jongeling, zeg ons naar waarheid waarom er razernij is in uw oogen?&rdquo;
+
+<p>&bdquo;Ik weet niet welken wijn van wilde papaver ik dronk, dat er razernij is in mijn oogen.&rdquo;
+
+<p>&bdquo;O, foei!&rdquo;
+
+<p>&bdquo;Wel, er zijn wijzen en er zijn dwazen, er zijn voorzichtigen en er zijn zorgeloozen. Er zijn oogen die glimlachen en oogen die weenen&mdash;en in mijn oogen is razernij.&rdquo;
+
+<milestone unit=tb rend=space>
+
+<p>&bdquo;Jongeling, waarom staat gij zoo stil in den schaduw van den boom?&rdquo;
+
+<p>&bdquo;Mijn voeten zijn loom door de last mijns harten, en ik sta in den schaduw.&rdquo;
+
+<p>&bdquo;O foei!&rdquo;
+
+<p>&bdquo;Wel, er zijn er die voortstappen op hun weg en er zijn er die treuzelen, sommigen zijn vrij, anderen geboeid&mdash;en mijn voeten zijn loom door de last mijns harten.&rdquo;
+
+
+
+
+
+
+
+
+<pb n=45 id=pb45>
+<div1 id=ch26 n=XXVI>
+<head>XXVI.</head>
+
+
+
+<p>&bdquo;Al wat van uw milde handen komt, neem ik aan. Ik vraag om niets méér.&rdquo;
+
+<p>&bdquo;Ja, ja, ik ken je, bescheiden beedelaar, je vraagt alles wat men heeft.&rdquo;
+
+<milestone unit=tb rend=space>
+
+<p>&bdquo;Als er een verlooren bloemke voor mij is, dan zal ik het in mijn hart dragen.&rdquo;
+
+<p>&bdquo;En als het doornen heeft!&rdquo;
+
+<p>&bdquo;Ik zal ze dulden.&rdquo;
+
+<p>&bdquo;Ja, ja, ik ken je, bescheiden beedelaar, je vraagt alles wat men heeft.&rdquo;
+
+<milestone unit=tb rend=space>
+
+<p>&bdquo;Als je maar ééns je minnende oogen wou opheffen tot mijn gelaat, dan zou dat mijn leeven zalig maken tot génerzijds des doods.&rdquo;
+
+<p>&bdquo;En als er enkel wreede blikken zijn?&rdquo;
+
+<p>&bdquo;Ik zal ze houden om mijn hart te doorbooren.&rdquo;
+
+<p>&bdquo;Ja, ja, ik ken je, bescheiden beedelaar, je vraagt alles wat men heeft.&rdquo;
+
+
+
+
+
+
+
+
+<pb n=46 id=pb46>
+<div1 id=ch27 n=XXVII>
+<head>XXVII.</head>
+
+
+
+<p>&bdquo;Vertrouw op Liefde, ook als ze smarten brengt. Sluit uw hart niet toe.&rdquo;
+
+<p>&bdquo;Ach, maar uw woorden zijn duister, mijn vriend, ik kan ze niet verstaan.&rdquo;
+
+<milestone unit=tb rend=space>
+
+<p>&bdquo;Het hart is er alleen om weg te schenken met een traan en een lied, mijn liefste!&rdquo;
+
+<p>&bdquo;Ach maar uw woorden zijn duister, mijn vriend, ik kan ze niet verstaan.&rdquo;
+
+<milestone unit=tb rend=space>
+
+<p>&bdquo;Vermaak is vluchtig als een daauwdrop, het sterft als het lacht. Maar smart is sterk en blijvend. Laat smartelijke liefde blijven waken in uw oogen.&rdquo;
+
+<p>&bdquo;Ach maar uw woorden zijn duister, mijn vriend, ik kan ze niet verstaan.&rdquo;
+
+<milestone unit=tb rend=space>
+
+<p>&bdquo;De lotos bloeit oopen voor den blik der Zon, en verliest al wat ze heeft. Ze wilde niet in knop blijven in den eeuwigen winterneevel.&rdquo;
+
+<p>&bdquo;Ach maar uw woorden zijn duister, mijn vriend, ik kan ze niet verstaan.&rdquo;
+
+
+
+
+
+
+
+
+<pb n=47 id=pb47>
+<div1 id=ch28 n=XXVIII>
+<head>XXVIII.</head>
+
+
+
+<p>Uw vragende oogen zijn droef. Zij zoeken mijn gedachte te kennen, zooals de maan de zee zou peilen.
+
+<p>Ik heb mijn leeven blootgelegd voor uw oogen van eind tot eind, en niets verborgen of teruggehouden. Daarom kent gij mij niet?
+
+<p>Was het maar een juweel, dan kon ik het in honderd stukken breeken en aan een snoer rijgen voor uw hals.
+
+<p>Was het maar een bloemeke, klein en rond en lief, dan kon ik het van zijn stengel plukken voor uw haar.
+
+<p>Maar het is een hart, mijn geliefde. Waar zijn zijn kusten, waar is zijn boodem?
+
+<p>De grenzen van dit rijk kent gij niet, en toch zijt ge er kooningin.
+
+<p>Was het maar een kort vermaak, dan kon het ontbloeyen in een ligte glimlach, en ge zoudt het in een oogwenk kunnen zien en verstaan.
+
+<pb n=48 id=pb48><p>Was het maar enkel een verdriet, dan kon het smelten in klare tranen, en zijn innigst geheim doen weerglanzen zonder een woord.
+
+<p>Maar het is Liefde, mijn Liefste.
+
+<p>Haar vermaak en verdriet zijn grenzeloos, en eindeloos haar nooden en weelden.
+
+<p>Zij is u zoo na als uw leeven, en toch kunt ge haar nooit geheel kennen.
+
+
+
+
+
+
+
+
+<pb n=49 id=pb49>
+<div1 id=ch29 n=XXIX>
+<head>XXIX.</head>
+
+
+
+<p>Spreek tot mij, Liefste! Zeg mij in woorden wat je zong.
+
+<p>De nacht is donker. De sterren zijn in wolken verlooren. De wind zucht door de bladeren.
+
+<p>Ik zal mijn haar los maken. Mijn blaauwe kleed zal mij omwikkelen als de nacht. Ik zal je hoofd aan mijn boezem klemmen, en dan in het zoete alleen-zijn murmelen tot je hart. Ik zal mijn oogen sluiten en luisteren. Ik zal je niet in &apos;t gelaat zien.
+
+<p>Als je woorden ten einde zijn, zullen wij stil en zwijgend zitten. De boomen alleen zullen fluisteren in &apos;t donker.
+
+<p>De nacht zal verbleeken. De dag zal aanbreeken. We zullen in elkaars oogen zien en dan verschillende weegen gaan.
+
+<p>Spreek tot mij Liefste! Zeg mij in woorden wat je zong.
+
+
+
+
+
+
+
+
+<pb n=50 id=pb50>
+<div1 id=ch30 n=XXX>
+<head>XXX.</head>
+
+
+
+<p>Gij zijt de avondwolk, die aan den heemel mijner droomen drijft.
+
+<p>Ik kleur u en bootseer u altijd-door met mijn liefde-verlangen.
+
+<p>Gij zijt mijn eigen, mijn eigen, Bewoonster van mijn eindelooze droomen.
+
+<milestone unit=tb rend=space>
+
+<p>Uw voeten zijn roozerood door den gloed van mijn hartsbegeeren, Sprokkelaarster van mijn zangen van zonsondergang.
+
+<p>Uw lippen zijn bitterzoet door de smaak van mijn smarten-wijn.
+
+<p>Gij zijt mijn eigen, mijn eigen, Bewoonster van mijne eenzame droomen.
+
+<milestone unit=tb rend=space>
+
+<p>Met de schaduw van mijn drift heb ik uwe oogen verdonkerd, Bezitster van de diepte van mijn blik!
+
+<p>Ik heb u gevangen, mijn liefste, en u gewikkeld in het net mijner muziek.
+
+<p>Gij zijt mijn eigen, mijn eigen, Bewoonster van mijn onsterfelijke droomen.
+
+
+
+
+
+
+
+
+<pb n=51 id=pb51>
+<div1 id=ch31 n=XXXI>
+<head>XXXI.</head>
+
+
+
+<p>De voogd van de wildernis, mijn hart, heeft zijn heemel gevonden in uw oogen.
+
+<p>Zij zijn de wieg van den morgen, zij zijn het kooninkrijk van de sterren.
+
+<p>Mijn liederen zijn verlooren in hun diepten.
+
+<p>Laat mij opgaan in dien heemel, in zijn eenzame ontzaglijkheid.
+
+<p>Laat mij zijn wolken klieven, en de vleugels spreiden in zijn zonneschijn.
+
+
+
+
+
+
+
+
+<pb n=52 id=pb52>
+<div1 id=ch32 n=XXXII>
+<head>XXXII.</head>
+
+
+
+<p>Zeg mij toch of dit alles wáár is, mijn Liefste, zeg mij of het wáár is.
+
+<p>Als deeze oogen hun bliksems flitsen, dan geeven de wolken in uw borst het stormend antwoord.
+
+<p>Is het wáár dat mijn lippen liefelijk zijn, als de ontplooyende knop van de eerste aandachtige liefde?
+
+<p>Dralen de herinneringen van vervloogen meimaanden in mijn leeden?
+
+<p>Huivert de aarde van zangen, als een harp, bij de aanraking van mijn voeten?
+
+<p>Is het wáár, dat de oogen van den nacht daauwdroppen storten als ik gezien word, en dat het morgenlicht blijde is als het mijn lichaam omvademt?
+
+<p>Is het wáár, is het wáár, dat uw liefde eenzaam reisde door eeuwen en waerelden, om mij te zoeken?
+
+<p>En dat, toen gij mij eindelijk vondt, uw eeuwen-oude begeerten volkoomen vreede <pb n=53 id=pb53>vonden in mijn vriendelijke stem en mijn oogen en lippen en golvend haar?
+
+<p>Is het dan waarlijk wáár, dat het geheimenis van den Oneindige op dit mijn voorhoofdje geschreeven is?
+
+<p>Zeg mij toch, mijn Geliefde, of dit alles wáár is.
+
+
+
+
+
+
+
+
+<pb n=54 id=pb54>
+<div1 id=ch33 n=XXXIII>
+<head>XXXIII.</head>
+
+
+
+<p>Ik heb u lief, Geliefde. Vergeef mij mijn liefde.
+
+<p><corr sic=Al>Als</corr> een doolende voogel ben ik gevangen.
+
+<p>Toen mijn hart geschokt werd, verloor het zijn sluyer en was naakt. Bedek het met erbarmen, Geliefde, en vergeef mij mijn liefde.
+
+<milestone unit=tb rend=space>
+
+<p>Als gij mij niet minnen kunt, Geliefde, vergeef mij mijn leed.
+
+<p>Zie mij niet zijlings aan van uit de verte.
+
+<p>Ik zal terugsluipen naar mijn hoekje en in &apos;t donker zitten.
+
+<p>Met twee handen zal ik mijn naakte schaamte bedekken.
+
+<p>Wend uw gelaat van mij weg, Geliefde, en vergeef mij mijn leed.
+
+<milestone unit=tb rend=space>
+
+<p>Als gij mij liefhebt, Geliefde, vergeef mij mijn vreugde.
+
+<p>Als mijn hart wordt weggesleurd op den vloed van geluk, glimlach dan niet om mijn hachelijke veroovering.
+
+<pb n=55 id=pb55><p>Als ik op mijn troon zit en u beheersch met mijn liefde-tirannie, als ik u mijn gunsten gedoog als een godin, heb dan geduld met mijn trots, Geliefde, en vergeef mij mijn vreugde.
+
+
+
+
+
+
+
+
+<pb n=56 id=pb56>
+<div1 id=ch34 n=XXXIV>
+<head>XXXIV.</head>
+
+
+
+<p>Ga niet heen, liefste, zonder mijn afscheid.
+
+<p>Ik heb den ganschen nacht gewaakt en nu zijn mijn oogen zwaar van slaap.
+
+<p>Ik ben bang u te verliezen terwijl ik slaap.
+
+<p>Ga niet heen, mijn liefste, zonder afscheid.
+
+<milestone unit=tb rend=space>
+
+<p>Ik schrik op en strek mijn handen uit om u aan te raken. Ik vraag mij af: is het een droom?
+
+<p>Kon ik uw voeten maar omstrikken met mijn hart en vasthouden aan mijn borst!
+
+<p>Ga niet heen, mijn liefste, zonder afscheid.
+
+
+
+
+
+
+
+
+<pb n=57 id=pb57>
+<div1 id=ch35 n=XXXV>
+<head>XXXV.</head>
+
+
+
+<p>Je speelt met me, opdat ik je niet te gemakkelijk zou kennen.
+
+<p>Je verblindt me met flikkering van gelach, om je tranen te verbergen.
+
+<p>Ik ken je, ik ken je kunst.&mdash;
+
+<p>Het woord dat je zou willen zeggen, dat zeg je niet.
+
+<milestone unit=tb rend=space>
+
+<p>Je ontwijkt me op duizenderlei wijzen, opdat ik je op prijs zou stellen.
+
+<p>Je gaat terzijde staan, opdat ik je niet onder de meenigte zou reekenen.
+
+<p>Ik ken je, ik ken je kunst.&mdash;
+
+<p>Het pad dat je zou willen gaan, dat ga je niet.
+
+<milestone unit=tb rend=space>
+
+<p>Je eischt meer dan anderen, daarom zwijg je.
+
+<p>Met speelsche onachtsaamheid vermijd je mijn gaven.
+
+<p>Ik ken je, ik ken je kunst.<corr>&mdash;</corr>
+
+<p>Wat je zou willen neemen, dat neem je niet.
+
+
+
+
+
+
+
+
+<pb n=58 id=pb58>
+<div1 id=ch36 n=XXXVI>
+<head>XXXVI.</head>
+
+
+
+<p>Hij fluisterde: &bdquo;Liefste, hef je oogen op.&rdquo;
+
+<p>Ik vermaande hem scherpelijk en zei: &bdquo;Ga heen!&rdquo; maar hij verroerde niet.
+
+<p>Hij stond voor me en hield mijn beide handen. Ik zei &bdquo;Verlaat me!&rdquo; maar hij ging niet.
+
+<milestone unit=tb rend=space>
+
+<p>Hij bracht zijn gelaat digt bij mijn oor. Ik oogde naar hem en zei &bdquo;Schaam je!&rdquo; maar hij bewoog niet.
+
+<p>Zijn lippen raakten mijn wang aan. Ik beefde en zei &bdquo;Je durft te veel!&rdquo; maar hij had geen schaamte.
+
+<milestone unit=tb rend=space>
+
+<p>Hij stak een bloem in mijn haar. Ik zei &bdquo;Het geeft niet!&rdquo; maar hij stond onverschrokken.
+
+<p>Hij nam de krans van mijn hals en ging heen. Ik ween en vraag mijn hart: &bdquo;Waarom komt hij niet terug?&rdquo;
+
+
+
+
+
+
+
+
+<pb n=59 id=pb59>
+<div1 id=ch37 n=XXXVII>
+<head>XXXVII.</head>
+
+
+
+<p>Woudt gij uw krans van frissche bloemen om mijn hals doen, mijn schoone?
+
+<p>Maar gij moet weeten, dat de eenige krans die ik gevlochten heb, voor de veelen is, voor hen, die maar in oogenblikken gezien worden, die in ondoorzochte landen woonen, die in dichterzangen leeven.
+
+<milestone unit=tb rend=space>
+
+<p>Het is te laat om mijn hart te vragen, in ruil voor het uwe.
+
+<p>Er was een tijd dat mijn leeven was als een knop, al zijn geur was verborgen in zijn kern.
+
+<p>Nu is het ver en wijd verstrooid.
+
+<p>Wie kent den toover om het weer te vergaderen en op te sluiten?
+
+<p>Mijn hart is niet het mijne, dat ik aan een enkele kan geeven, het behoort den veelen.
+
+
+
+
+
+
+
+
+<pb n=60 id=pb60>
+<div1 id=ch38 n=XXXVIII>
+<head>XXXVIII.</head>
+
+
+
+<p>Mijn Lief, op zeekeren tijd liet uw dichter een groot epos in zijn geest van stapel.
+
+<p>Helaas, ik was niet omzichtig genoeg, het raakte uw rinkelende enkel-ringen en ging stuk.
+
+<p>Het brak in kleine liedjes en lag vergruisd aan uw voeten.
+
+<p>Mijn heele lading van vertelsels van oude oorloogen werd geslingerd door de lachende golven, gedrenkt in tranen en zonk.
+
+<p>Dit verlies moet gij mij goed-maken, mijn Lief.
+
+<p>Als mijn aanspraken op onsterfelijke roem na mijn dood zijn vernietigd, maak mij dan onsterfelijk in mijn leeven.
+
+<p>En ik zal mijn verlies niet betreuren en u geen verwijt doen.
+
+
+
+
+
+
+
+
+<pb n=61 id=pb61>
+<div1 id=ch39 n=XXXIX>
+<head>XXXIX.</head>
+
+
+
+<p>Den ganschen morgen beproef ik een krans te vlechten, maar de bloemen glissen en vallen uit.
+
+<p>Jij zit daar en ziet heimelijk naar me, uit de hoeken van je spiedende oogen.
+
+<p>Vraag die oogen, die donker op ondeugd zinnen, wiens schuld het was.
+
+<milestone unit=tb rend=space>
+
+<p>Ik tracht een lied te zingen, maar te vergeefs.
+
+<p>Een verborgen glimlach trilt op je lippen; vraag dien, wie de schuld is van mijn mislukking.
+
+<p>Laat je glimlachende lippen onder eede zeggen, hoe mijn stem in de stilte verlooren ging als een dronken bij in de lotos.
+
+<milestone unit=tb rend=space>
+
+<p>Het is avond, het is tijd voor de bloemen hun kelken te sluiten.
+
+<p>Geef mij verlof aan je zijde te zitten, en vraag mijn lippen het werk te doen, dat in stilte gedaan kan worden, bij het scheemerig licht van de sterren.
+
+
+
+
+
+
+
+
+<pb n=62 id=pb62>
+<div1 id=ch40 n=XL>
+<head>XL.</head>
+
+
+
+<p>Een ongeloovig lachje speelt in je oogen, als ik bij je kom, om afscheid te neemen.
+
+<p>Ik deed het zoo vaak, dat je denkt dat ik gaauw terug kom.
+
+<p>En oprecht gesprooken: ik denk het óók.
+
+<p>Want de lentedagen koomen keer op keer weerom; de volle maan neemt afscheid en herhaalt haar bezoek, de bloemen keeren weer en bloozen jaar op jaar aan hun twijgen.&mdash;ik denk wel, dat ik alleen afscheid neem, om bij je terug te koomen.
+
+<p>Maar bewaar de illuzie; wijs haar niet af met onvriendelijke haast.
+
+<p>Als ik zeg, dat ik je voor altijd verlaat, neem het aan voor wáár, en laat een tranenfloers voor een oogenblijk de donkere rand van je oogen dieper maken.
+
+<p>En glimlach dan zoo schalks als je wilt, wanneer ik terug kom.
+
+
+
+
+
+
+
+
+<pb n=63 id=pb63>
+<div1 id=ch41 n=XLI>
+<head>XLI.</head>
+
+
+
+<p>Ik verlang de diepste woorden uit te spreeken, die ik je te zeggen heb; maar ik durf niet, uit vrees dat je zoudt lachen.
+
+<p>Daarom belach ik mijzelven en strooi mijn geheim uit in scherts.
+
+<p>Ik neem mijn smart luchthartig, uit vrees dat jij het doen zoudt.
+
+<milestone unit=tb rend=space>
+
+<p>Ik verlang de waarachtige woorden te spreeken, die ik je te zeggen heb; maar ik durf niet, uit vrees dat je ze niet gelooven zoudt.
+
+<p>Daarom vermom ik ze in leugen, en zeg het teegengestelde van wat ik meen.
+
+<p>Ik laat mijn smart belachelijk schijnen, uit vrees dat jij het doen zoudt.
+
+<milestone unit=tb rend=space>
+
+<p>Ik verlang de kostelijkste woorden te gebruiken, die ik voor je heb; maar ik durf niet, uit vrees, niet met gelijke munt betaald te worden.
+
+<pb n=64 id=pb64><p>Daarom geef ik je harde namen en snoef op mijn vereelte kracht.
+
+<p>Ik pijnig je, uit vrees dat je nooit pijn zoudt kennen.
+
+<milestone unit=tb rend=space>
+
+<p>Ik verlang stil bij je te zitten; maar ik durf niet, uit vrees dat mijn hart mij op de tong komt.
+
+<p>Daarom praat en babbel ik luchtigjes, en verberg mijn hart achter woorden.
+
+<p>Ik ga ruuwelijk om met mijn pijn, uit vrees dat jij het zoudt doen.
+
+<milestone unit=tb rend=space>
+
+<p>Ik verlang weg te gaan van je zij; maar ik durf niet, uit vrees dat je mijn lafhartigheid zoudt bemerken.
+
+<p>Daarom draag ik mijn hoofd hoog en kom achteloos in je nabijheid. Herhaalde dolksteeken van je oogen houden mijn smarten versch.
+
+
+
+
+
+
+
+
+<pb n=65 id=pb65>
+<div1 id=ch42 n=XLII>
+<head>XLII.</head>
+
+
+
+<p>O wild, heerlijk dronken!
+
+<p>Als gij uw deuren oopentrapt en den dolle speelt in &apos;t oopenbaar,
+
+<p>Als ge uw buidel in éénen nacht leedigt en omzichtigheid voor den neus knipt,
+
+<p>Als ge op zeldzame paden gaat en speelt met nuttelooze dingen,
+
+<p>Maat noch reede telt,
+
+<p>Als ge met volle zeilen in den storm het roer in tweeën breekt,
+
+<p>dan doe ik mee, kameraad, en wil dronken zijn en naar de haayen gaan.
+
+<p>Ik heb mijn dagen en nachten verspild in gezelschap van wijze, deegelijke buuren.
+
+<p>Veel kennis heeft mijn haren vergraauwd, en veel opletten maakte mijn blik troebel.
+
+<p>Jaren lang heb ik stukjes en beetjes van dingen verzameld en opgehoopt.
+
+<p>Sla ze stuk en dans erop, en verstrooi ze in den wind.
+
+<pb n=66 id=pb66><p>Want ik weet het is hoogste wijsheid, dronken te zijn en naar de haayen te gaan.
+
+<milestone unit=tb rend=space>
+
+<p>Laat alle kronkelige bedenkingen varen, laat mij hoopeloos verdwalen.
+
+<p>Laat een vlaag van volle duizeling koomen en mij van mijn ankers slaan.
+
+<p>De waereld is bevolkt met deftigen, en met werkers, nuttig en knap.
+
+<p>Er zijn menschen die gemakkelijk vooraan gaan, en menschen die netjes achteraan koomen.
+
+<p>Laat hen gelukkig en voorspoedig zijn, en laat mij een dwaas zijn, die niet meetelt.
+
+<p>Want ik weet, het is &apos;t eind van alle werk, dronken te zijn en naar de haayen te gaan.
+
+<milestone unit=tb rend=space>
+
+<p>Ik zweer alle aanspraak op den rang van de fatsoenlijken, in dit oogenblik te verzaken.
+
+<p>Ik laat mijn geleerden-trots varen en mijn oordeel van goed of kwaad.
+
+<p>Ik vergruizel het vat der herinnering, en verspil den laatsten traandrop.
+
+<p>Met het schuim van de bes-roode wijn zal ik mijn lachen baden en klaren.
+
+<pb n=67 id=pb67><p>Voor deeze enkele maal scheur ik aan flarden het ordeteeken der bezadigden en welleevenden.
+
+<p>En ik leg de heilige gelofte af, nietswaardig te zijn, en dronken, en naar de haayen te gaan.
+
+
+
+
+
+
+
+
+<pb n=68 id=pb68>
+<div1 id=ch43 n=XLIII>
+<head>XLIII.</head>
+
+
+
+<p>Neen, mijn vrienden, een askeet word ik nooit, wat gij ook moogt zeggen.
+
+<p>Als zij niet met mij samen de gelofte aflegt, word ik geen askeet.
+
+<p>Ik ben vast beslooten nooit askeet te worden, tenzij ik een schaduwig hoekje vind en gezelschap bij mijn boetedoening.
+
+<milestone unit=tb rend=space>
+
+<p>Neen, mijn vrienden, ik zal nooit mijn haard en huis verlaten, noch mij terugtrekken in woudeenzaamheid, als er geen vroolijke lach echoot in haar schaduw, en er niet de tip van een safraan-geele mantel fladdert in den wind; als haar stilte niet verdiept wordt door zacht gefluister.
+
+<p>Ik word nooit een askeet.
+
+
+
+
+
+
+
+
+<pb n=69 id=pb69>
+<div1 id=ch44 n=XLIV>
+<head>XLIV.</head>
+
+
+
+<p>Eerwaarde Heer, vergeef dit paar zondaren. Lente-winden waayen vandaag in wilde vlagen, ze drijven stof en doode bladen voort, en al uw lessen gaan daarbij verlooren.
+
+<p>Zeg niet, vader, dat leeven ijdelheid is.
+
+<p>Want we hebben voor éénmaal een verdrag met den dood geslooten, en alleen voor een paar zoetgeurige uuren zijn wij onsterfelijk gemaakt.
+
+<milestone unit=tb rend=space>
+
+<p>Zelfs als het leeger des koonings kwam, en ons fel ooverviel, zouden wij droevig het hoofd schudden en zeggen: Broeders gij stoort ons. Als ge dit lawaayig spel wilt speelen, gaat dan elders met uw wapengekletter. Daar wij toch maar voor een paar vluchtige uuren onsterfelijk zijn gemaakt.
+
+<milestone unit=tb rend=space>
+
+<p>Als vriendelijke menschen kwamen en om ons samendrongen, zouden we met bescheiden buiging tot hen zeggen: Dit bizondere <pb n=70 id=pb70>voorrecht maakt ons verleegen. Er is weinig ruimte in de oneindige heemel waar wij woonen. Want in de lente koomen er drommen bloemen, en de drukke bijen-wiekjes verdringen elkaar. Ons heemeltje, waar enkel wij twee onsterfelijken woonen, is zoo belachelijk naauw.
+
+
+
+
+
+
+
+
+<pb n=71 id=pb71>
+<div1 id=ch45 n=XLV>
+<head>XLV.</head>
+
+
+
+<p>Wensch den vertrekkenden gasten wel thuis, en wisch de spooren van hun schreeden weg.
+
+<p>Neem tot uw hart<corr sic=",,">,</corr> met een glimlach, wat ligt is en eenvoudig en nabij.
+
+<p>Vandaag is het feest der schimmen, die niet weeten wanneer zij sterven.
+
+<p>Laat uw lach een wufte blijheid zijn als lichtgetwinkel op golfjes.
+
+<p>Laat uw leeven luchtig dansen op de kant van den Tijd, als daauw op de punt van een blad.
+
+<p>Sla in akkoorden van uw harp, grillige, vliedende ritmen.
+
+
+
+
+
+
+
+
+<pb n=72 id=pb72>
+<div1 id=ch46 n=XLVI>
+<head>XLVI.</head>
+
+
+
+<p>Gij verliet mij en ging uws weegs.
+
+<p>Ik dacht, dat ik om u treuren zou, en uw eenzaam beeld in mijn hart zetten, gevat in een gouden lied.
+
+<p>Maar ach, mijn slecht gesternte, de tijd is kort.
+
+<milestone unit=tb rend=space>
+
+<p>De jeugd gaat voorbij jaar op jaar; de lentedagen zijn vluchtig; de brooze bloemen sterven voor niets, en de wijze man waarschuwt mij, dat leeven niet is dan een daauwdrop op een lotosblad.
+
+<p>Zou ik dit alles verwaarloozen, om eene na te staren, die mij de rug gekeerd heeft?
+
+<p>Dat zou lomp zijn en dwaas, want de tijd is kort.
+
+<milestone unit=tb rend=space>
+
+<p>Kom dan! mijn reegen-nachten met kletterende voetjes; glimlach dan, gouden herfst! zorgelooze April! die onderweg uw kussen rondstrooit.
+
+<p>Kom gij, en gij, en gij ook!
+
+<pb n=73 id=pb73><p>Geliefden, gij weet dat wij sterfelijk zijn. Is het verstandig ons hart te breeken voor die eene, die ons haar hart onttrok? Want de tijd is kort.
+
+<milestone unit=tb rend=space>
+
+<p>Het is zoet in een hoekje te zitten, en te peinzen en in rijmen te schrijven, dat gij mijn gansche waereld zijt.
+
+<p>Het is heldhaftig zijn smart te koesteren, en vastbeslooten ontroostbaar te zijn.
+
+<p>Maar een nieuw gelaat kijkt door mijn deur en heft de oogen tot de mijnen.
+
+<p>Ik moet wel mijn tranen weg wisschen en een ander wijsje zingen.
+
+<p>Want de tijd is kort.
+
+
+
+
+
+
+
+
+<pb n=74 id=pb74>
+<div1 id=ch47 n=XLVII>
+<head>XLVII.</head>
+
+
+
+<p>Als je het wilt, zal ik ophouden te zingen.
+
+<p>Als het je hart verontrust, zal ik mijn blikken wegwenden van je gezicht.
+
+<p>Als je er van opschrikt op je wandeling, zal ik op zij gaan en een anderen weg kiezen.
+
+<p>Als het je stoort in het bloemen vlechten, zal ik je eenzamen hof vermijden.
+
+<p>Als het &apos;t water woest maakt en wild, zal ik mijn boot niet langs je oever roeyen.
+
+
+
+
+
+
+
+
+<pb n=75 id=pb75>
+<div1 id=ch48 n=XLVIII>
+<head>XLVIII.</head>
+
+
+
+<p>Bevrijd mij van de banden uwer lieftalligheid, mijn Lief! Nu niet meer van deezen wijn van kussen.
+
+<p>Deeze wolk van zware wierook benaauwt mijn hart.
+
+<p>Oopen de deuren, laat het morgenlicht binnen.
+
+<p>Ik ben in u verlooren, verwikkeld in de plooyen uwer liefkoozingen.
+
+<p>Bevrijd mij van uw ban, en geef mij de mannelijkheid weer, om u mijn vrij hart te bieden.
+
+
+
+
+
+
+
+
+<pb n=76 id=pb76>
+<div1 id=ch49 n=XLIX>
+<head>XLIX.</head>
+
+
+
+<p>Ik houd haar handen omvat en druk haar aan mijn borst.
+
+<p>Ik tracht mijn armen met haar bekoorlijkheid te vullen, haar lieve lach met kussen te rooven, haar donkere blikken met mijn oogen te drinken.
+
+<p>Maar ach! waar is het? Wie kan het blaauw van den heemel afrukken?
+
+<p>Ik tracht de <corr sic=schooheid>schoonheid</corr> te grijpen; maar ze ontsnapt me, en laat enkel het lijf in mijn handen.
+
+<p>Moede en ontmoedigd kom ik terug.
+
+<p>Hoe kan het lijf de bloem bereiken, die de geest alleen zou kunnen aanraken?
+
+
+
+
+
+
+
+
+<pb n=77 id=pb77>
+<div1 id=ch50 n=L>
+<head>L.</head>
+
+
+
+<p>Lief, mijn hart verlangt dag en nacht naar de ontmoeting met u&mdash;naar de ontmoeting, die is als de al-verteerende dood.
+
+<p>Vaag mij weg als een storm, neem alles wat ik heb, breek mijn slaap oopen en plunder mijn droomen. Beroof mij van mijn waereld.
+
+<p>In die verwoesting, in de uiterste naaktheid van den geest, laat ons dan één worden in schoonheid.
+
+<p>Ach ijdele wensch! waar is deeze hoop op vereeniging, tenzij in U, o mijn God!
+
+
+
+
+
+
+
+
+<pb n=78 id=pb78>
+<div1 id=ch51 n=LI>
+<head>LI.</head>
+
+
+
+<p>Voleindig het laatste lied en laat ons heengaan.
+
+<p>Vergeet deeze nacht, als er geen nacht meer is.
+
+<p>Wie tracht ik in mijn armen te klemmen? Droomen kan men niet vangen.
+
+<p>Mijn greetige handen drukken ijdelheid aan mijn hart en ze kwetst mijn borst.
+
+
+
+
+
+
+
+
+<pb n=79 id=pb79>
+<div1 id=ch52 n=LII>
+<head>LII.</head>
+
+
+
+<p>Waarom doofde de lamp?
+
+<p>Ik hield er mijn mantel vóór, om haar voor de wind te beschutten. Daarom doofde de lamp.
+
+<milestone unit=tb rend=space>
+
+<p>Waarom welkte de bloem?
+
+<p>Ik drukte haar aan mijn hart in angstige liefde. Daarom welkte de bloem.
+
+<milestone unit=tb rend=space>
+
+<p>Waarom verdroogde de stroom?
+
+<p>Ik legde er een dam door, om hem nuttig voor mijn gebruik te maken, daarom droogde de stroom.
+
+<milestone unit=tb rend=space>
+
+<p>Waarom brak de harp-snaar?
+
+<p>Ik trachtte haar een toon te ontwringen, die booven haar macht was, daarom is de harp-snaar gebrooken.
+
+
+
+
+
+
+
+
+<pb n=80 id=pb80>
+<div1 id=ch53 n=LIII>
+<head>LIII.</head>
+
+
+
+<p>Waarom hoondet gij mij met een blik?
+
+<p>Ik kwam niet als een beedelaar.
+
+<p>Een uurtje maar stond ik aan het einde van uwen hof, buiten de heg.
+
+<p>Waarom hoondet gij mij met een blik?
+
+<milestone unit=tb rend=space>
+
+<p>Geen roos nam ik uit uwen tuin, geen vrucht heb ik geplukt.
+
+<p>Ik schuilde neederig in de schaduw aan den weg, waar elke vreemde reiziger mag staan.
+
+<p>Geen roos heb ik geplukt.
+
+<milestone unit=tb rend=space>
+
+<p>Ja, mijn voeten waren moe, en de reegenbui kwam neer.
+
+<p>De wind gierde tusschen de zwaayende bamboe-twijgen.
+
+<p>De wolken snelden langs den heemel als verslagen vluchtelingen.
+
+<p>Mijn voeten waren moede.
+
+<milestone unit=tb rend=space>
+
+<p>Ik weet niet wat gij van mij dacht, noch op wien gij wachtet aan uw deur.
+
+<pb n=81 id=pb81><p>Bliksemflitsen verblindden uw waakzame oogen.
+
+<p>Hoe wist ik dat gij mij zien kondet, waar ik stond in &apos;t donker?
+
+<p>Ik weet niet wat gij van mij dacht.
+
+<milestone unit=tb rend=space>
+
+<p>De dag is ten einde, de reegen heeft éven opgehouden.
+
+<p>Ik verlaat de schaduw van den boom aan het eind van uwen hof, en de zitplaats op het gras.
+
+<p>Het is donker geworden, sluit uw deur, ik ga mijns weegs.
+
+<p>De dag is ten einde.
+
+
+
+
+
+
+
+
+<pb n=82 id=pb82>
+<div1 id=ch54 n=LIV>
+<head>LIV.</head>
+
+
+
+<p>Waarheen zoo haastig met uw mand op den laten avond, nu de markt geslooten is?
+
+<p>Allen zijn nu thuis met hun vrachten; de maan kijkt booven de boomen van het dorp.
+
+<p>De echoos van de stemmen, die roepen naar den ooverhaal, vlieden oover het donkere water naar het verre moeras waar de wilde eenden slapen.
+
+<p>Waarheen zoo haastig met uw mand, nu de markt is geslooten?
+
+<milestone unit=tb rend=space>
+
+<p>Slaap legde haar vingers op de oogen van den nacht.
+
+<p>De nesten van de kraayen zijn stil geworden, en de fluisteringen van de bamboebladen zwijgen.
+
+<p>De arbeiders, die thuis kwamen van den akker, spreiden hun matten in den binnenhof.
+
+<p>Waarheen zoo haastig met uw mand, nu de markt geslooten is?
+
+
+
+
+
+
+
+
+<pb n=83 id=pb83>
+<div1 id=ch55 n=LV>
+<head>LV.</head>
+
+
+
+<p>Het was middag toen je wegging.
+
+<p>Fel stond de zon aan den heemel.
+
+<p>Ik had mijn werk gedaan en zat alleen op mijn balkon toen je wegging.
+
+<milestone unit=tb rend=space>
+
+<p>Grillige windstooten voeren ziftend door de geuren van veele verre landerijen.
+
+<p>De duiven koerden onophoudelijk in de schaduw, en een bij verdwaalde in mijn kamer, en zoemde het nieuws van veele verre landerijen.
+
+<milestone unit=tb rend=space>
+
+<p>Het dorp sliep in de middaghette. De weg lag verlaten.
+
+<p>In plotselinge vlagen rees en verstierf het geruis der bladen.
+
+<p>Ik zag op naar den heemel, en weefde in het blaauw de letters van een bekende naam, terwijl het dorp sliep in de middaghette.
+
+<milestone unit=tb rend=space>
+
+<p>Ik had vergeeten mijn haar te vlechten. De kwijnende koelte speelde er mee op mijn wang.
+
+<pb n=84 id=pb84><p>De rivier lag rimpeloos onder de schaduw-oever.
+
+<p>De luye witte wolkjes bewoogen niet.
+
+<p>Ik had vergeeten mijn haar te vlechten.
+
+<milestone unit=tb rend=space>
+
+<p>Het was middag toen je wegging.
+
+<p>Het stof van den weg was heet en de akkers lagen te hijgen.
+
+<p>De duiven koerden in het digte gebladerte.
+
+<p>Ik was alleen op mijn balkon, toen je weg ging.
+
+
+
+
+
+
+
+
+<pb n=85 id=pb85>
+<div1 id=ch56 n=LVI>
+<head>LVI.</head>
+
+
+
+<p>Ik was ééne van veele vrouwen, beezig met de obscure dagelijksche huishoudplichten.
+
+<p>Waarom hebt gij mij uitverkooren en weggebracht uit de koele beschutting van ons dagelijksch leeven?
+
+<milestone unit=tb rend=space>
+
+<p>Ongebiechte liefde is heilig. Zij schijnt als juweelen in het duister van het verborgen hart. In het licht van den nieuwsgierigen dag ziet ze erbarmelijk dof.
+
+<p>O, gij, die in de schuilplaats van mijn hart doordrongt en mijn sidderende liefde in &apos;t oopenbaar sleurdet, voor altijd het schaduwhoekje vernielend waar haar nest verborgen was!
+
+<milestone unit=tb rend=space>
+
+<p>De andere vrouwen zijn dezelfde gebleeven.
+
+<p>Geen enkele keek in haar eigen binnenste, en zij weeten haar eigen geheim niet.
+
+<p>Ze glimlachen luchtigjes, en weenen, babbelen en werken. Dagelijks gaan ze naar <pb n=86 id=pb86>den tempel, steeken hun lamp aan en halen water uit de rivier.
+
+<milestone unit=tb rend=space>
+
+<p>Ik hoopte dat de rillende schaamte der dakloozen aan mijne liefde bespaard zou blijven, maar gij wendt uw gelaat af.
+
+<p>Ja, uw weg ligt voor u oopen, maar gij hebt mijn terugkeer afgesneeden, en mij naakt voor de lidlooze, dag en nacht starende oogen der waereld gelaten.
+
+
+
+
+
+
+
+
+<pb n=87 id=pb87>
+<div1 id=ch57 n=LVII>
+<head>LVII.</head>
+
+
+
+<p>Ik plukte uw bloem, o waereld!
+
+<p>Ik drukte haar aan mijn hart en de doorn stak.
+
+<p>Toen de dag kwijnde en het donker werd, bespeurde ik dat de bloem verwelkt was, maar de pijn gebleeven.
+
+<milestone unit=tb rend=space>
+
+<p>Meer bloemen zullen tot u koomen, o waereld, met geur en trots.
+
+<p>Maar mijn tijd van bloemen plukken is voorbij en heel den donkeren nacht is mijn roos weg, maar de pijn gebleeven.
+
+
+
+
+
+
+
+
+<pb n=88 id=pb88>
+<div1 id=ch58 n=LVIII>
+<head>LVIII.</head>
+
+
+
+<p>Op een morgen, in den bloemhof, kwam een blind meisje mij een <corr sic=bloemekeeten>bloemenketen</corr> aanbieden, geborgen in een lotos-blad.
+
+<p>Ik deed hem om mijn hals en tranen kwamen in mijn oogen.
+
+<p>Ik kuste haar en zeide: &bdquo;Je bent blind zooals de bloemen zelf.<corr>&rdquo;</corr>
+
+<p>&bdquo;Je weet zelf niet hoe schoon je geschenk is.&rdquo;
+
+
+
+
+
+
+
+
+<pb n=89 id=pb89>
+<div1 id=ch59 n=LIX>
+<head>LIX.</head>
+
+
+
+<p>O vrouw, gij zijt niet enkel het maaksel van God, maar ook van menschen; zij kleeden u voortduurend met schoonheid van hun harten.
+
+<p>Dichters weeven voor u een webbe met draden van gouden verbeelding; schilders geeven steeds nieuwe onsterfelijkheid aan uw vorm.
+
+<p>De zee geeft zijn paerlen, de mijnen hun goud, de zoomertuinen hun bloemen, om u te bekleeden, te bedekken, en kostelijker te maken.
+
+<p>De begeerte der menschenharten heeft zijn glans oover uwe jeugd gespreid.
+
+<p>Gij zijt half vrouw, half droom.
+
+
+
+
+
+
+
+
+<pb n=90 id=pb90>
+<div1 id=ch60 n=LX>
+<head>LX.</head>
+
+
+
+<p>O, in steen gehouwen Schoonheid, te midden van het gedrang en rumoer der waereld staat gij stom en stil, alleen en ongenaakbaar.
+
+<p>De groote Tijd zit bekoord aan uw voeten en preevelt: &bdquo;Spreek, spreek tot mij, geliefde, spreek, mijn bruid!&rdquo;
+
+<p>Maar uw spraak is in steen verslooten, Onbeweegbare Schoonheid!<corr sic="&rdquo;"></corr>
+
+
+
+
+
+
+
+
+<pb n=91 id=pb91>
+<div1 id=ch61 n=LXI>
+<head>LXI.</head>
+
+
+
+<p>Vreede, mijn hart, laat het afscheid een vriendelijk oogenblijk zijn.
+
+<p>Laat het niet zijn dood, maar voltooying.
+
+<p>Laat liefde versmelten in heugenis en smart in liederen.
+
+<p>Laat de heemelvlucht eindigen in vleugelen-vouwen booven het nest.
+
+<p>Laat de laatste aanraking uwer handen zacht zijn, als de bloem van den nacht.
+
+<p>Sta stil, o Heerlijk Einde, voor een oogenblik, en zeg uw laatste woorden in stilte.
+
+<p>Ik buig voor u en houd mijn lamp omhoog om u vóór te lichten op uw pad.
+
+
+
+
+
+
+
+
+<pb n=92 id=pb92>
+<div1 id=ch62 n=LXII>
+<head>LXII.</head>
+
+
+
+<p>Ik ging op het donkere droomenpad om de Geliefde te zoeken, die de mijne was in een vroeger leeven.
+
+<p>Haar huis stond aan het eind van een verlaten straat.
+
+<p>Haar lievelings-paauw zat in de avondkoelte dommelend op zijn kruk, en de duiven waren stil in hun hoekje.
+
+<p>Zij zette haar lamp neer bij den voorhal en stond vóór mij.
+
+<p>Zij hief haar groote oogen op naar mijn gelaat en vroeg sprakeloos: &bdquo;Gaat het u goed, mijn vriend?&rdquo;
+
+<p>Ik poogde te antwoorden, maar onze taal was verlooren en vergeeten.
+
+<p>Ik peinsde en peinsde; maar onze namen kon ik niet herinneren.
+
+<p>Tranen blonken in haar oogen. Ze hield haar rechterhand tot mij op. Ik nam die en stond zwijgend.
+
+<p>Onze lamp had geflakkerd in de avondkoelte&mdash;en doofde.
+
+
+
+
+
+
+
+
+<pb n=93 id=pb93>
+<div1 id=ch63 n=LXIII>
+<head>LXIII.</head>
+
+
+
+<p>Reiziger, moet gij vertrekken?
+
+<p>De nacht is stil en de duisternis zijgt op het woud.
+
+<p>Op ons balkon zijn de lampen helder, de bloemen allen frisch en de jeugdige oogen nog wakker.
+
+<p>Is de tijd voor het afscheid gekoomen?
+
+<p>Reiziger, moet gij vertrekken?
+
+<milestone unit=tb rend=space>
+
+<p>We hebben uw voeten niet met onze smeekende armen gebonden.
+
+<p>De deuren zijn voor u oopen. Uw paard staat gezadeld aan de poort.
+
+<p>Alleen met onze gezangen hebben wij getracht uw heengaan te verhinderen.
+
+<p>Als wij getracht hebben u terug te houden, was het alleen met onze oogen.
+
+<p>Reiziger, wij zijn onmachtig u te houden. Wij hebben niet dan onze tranen.
+
+<p>Welk ondoofbaar vuur gloeit in uw oogen?
+
+<p>Welke rustelooze koorts woelt in uw bloed?
+
+<pb n=94 id=pb94><p>Welke roep uit het duister dwingt u?
+
+<p>Welke vreesselijke bezweering hebt gij in de sterren geleezen, dat de nacht uw hart binnendrong met geheime verzeegelde boodschap, zwijgend en vreemd.
+
+<p>Als ge niet van vroolijk gezelschap houdt, als ge vreede verlangt, moe hart, dan zullen we onze lampen dooven en onze harpen doen verstommen.
+
+<p>We zullen stil in &apos;t donker zitten bij het geruisch der bladeren, en de vermoeide maan zal bleeke stralen op uw venster werpen.
+
+<p>O reiziger, welke sluimerlooze geest uit het hart van den middernacht heeft u aangeraakt?
+
+
+
+
+
+
+
+
+<pb n=95 id=pb95>
+<div1 id=ch64 n=LXIV>
+<head>LXIV.</head>
+
+
+
+<p>Ik verbracht mijn dag op het blakend heete stof van den weg.
+
+<p>Nu, in de avondkoelte, klop ik aan de deur van de herberg. Ze is verlaten en in puin gevallen.
+
+<p>Een grimmige <hi>asjat</hi> boom spreidt zijn hongerig grijpende wortels door de gapende muurspleeten.
+
+<milestone unit=tb rend=space>
+
+<p>Er waren dagen dat voetgangers hier hun moede voeten kwamen wasschen.
+
+<p>Zij spreidden hun matten in den voorhof, bij het matte licht van de vroege maan, en zaten en praatten oover vreemde landen.
+
+<p>Zij ontwaakten verkwikt in den morgen, als voogels hen verblijdden en vriendelijke bloemen met hun hoofdjes hun toeknikten aan den kant van den weg.
+
+<p>Maar toen ik hier kwam wachtte mij geen brandende lamp.
+
+<p>Zwarte roetvlekken, achtergelaten door veele vergeeten avondlampen, staren van den muur, als blinde oogen.
+
+<pb n=96 id=pb96><p>Vuur-vliegen zweeven in het struweel bij den verdroogden vijver, en bamboe-twijgen werpen hun schaduw op het begraasde pad.
+
+<p>Ik ben niemands gast aan het einde van mijn dag.
+
+<p>Vóór mij is de lange nacht en ik ben moede.
+
+
+
+
+
+
+
+
+<pb n=97 id=pb97>
+<div1 id=ch65 n=LXV>
+<head>LXV.</head>
+
+
+
+<p>Is dat uw roep weederom?
+
+<p>De avond is gekoomen. Vermoeidheid omvangt me als de armen van smeekende liefde.
+
+<p>Roept gij mij?
+
+<milestone unit=tb rend=space>
+
+<p>Ik gaf u mijn ganschen dag, wreede meesteres, moet ge mij nu nog mijn nacht rooven?
+
+<p>Ergends is een einde aan alles, en de eenzaamheid van het duister is ons eigendom.
+
+<p>Moet uw stem daar doorhéén booren en mij slaan?
+
+<milestone unit=tb rend=space>
+
+<p>Heeft de avond aan uwe poort geen sluimermuziek?
+
+<p>Bestijgen de stilgewiekte sterren nimmer den heemel booven uw genadelooze tooren.
+
+<p>Vallen in uw gaarde de bloemen nooit op het stof, in zacht sterven.
+
+<milestone unit=tb rend=space>
+
+<p>Moet gij mij roepen, Rustelooze?
+
+<p>Dan moogen de droeve oogen der liefde te vergeefs wachten en weenen.
+
+<pb n=98 id=pb98><p>De lamp mooge branden in het eenzame huis.
+
+<p>De veerboot brenge de moede arbeiders huiswaarts.
+
+<p>Ik laat mijn droomen achter en kom haastig op uw roep.
+
+
+
+
+
+
+
+
+<pb n=99 id=pb99>
+<div1 id=ch66 n=LXVI>
+<head>LXVI.</head>
+
+
+
+<p>Een zwervende dwaas zocht den steen der wijzen. Zijn haren waren sliertig, tanig en vol stof, zijn lijf was tot een schim vermagerd, zijn lippen waren digt-gekneepen als de geslooten deuren van zijn hart, zijn oogen gloeiden als het licht van een glimworm die zijn wijfje zoekt.
+
+<milestone unit=tb rend=space>
+
+<p>Vóór hem bulderde de grenzelooze oceaan.
+
+<p>De rumoerige golven spraken gestadig van verborgen schatten, de onweetendheid bespottend, die hun beteekenis niet kende.
+
+<p>Misschien had hij alle hoop opgegeeven, toch wou hij niet rusten, want het zoeken was zijn leeven geworden,&mdash;
+
+<p>Eeven als de oceaan altijd dóór zijn armen tot den heemel opheft naar het onbereikbare.&mdash;
+
+<p>Eeven als de sterren in kringen beweegen, en toch een einddoel zoeken dat nooit bereikt kan worden.&mdash;
+
+<p>Zoo dwaalde de dwaas met zijn tanige, stoffige haren aan het eenzame strand en zocht den steen der wijzen.
+
+<pb n=100 id=pb100><milestone unit=tb rend=space>
+
+<p>Op zeekeren dag kwam een dorps-jongen tot hem en vroeg: &bdquo;Zeg, hoe kom je aan die gouden ketting om je middel?&rdquo;
+
+<p>De dwaas schrok op&mdash;de ketting, die eens van ijzer was, was waarlijk van goud; het was geen droom, maar hij wist niet wanneer zij veranderd was.
+
+<p>Woest sloeg hij zich op &apos;t voorhoofd&mdash;wáár, o wáár toch had hij dit succes bereikt zonder het te weeten?
+
+<p>Het was hem een gewoonte geworden steenen op te rapen en de ketting er mee aan te raken, en ze dan weg te werpen zonder te zien of de verandering gelukt was; zoo had de dwaas den steen gevonden en weer verlooren.
+
+<p>De zon zonk laag in &apos;t westen, de heemel was als goud.
+
+<p>De dwaas keerde terug op zijn schreeden om opnieuw de verlooren schat te vinden, zijn kracht uitgeput, zijn lijf geboogen, zijn hart in &apos;t stof&mdash;als een ontwortelde boom.
+
+
+
+
+
+
+
+
+<pb n=101 id=pb101>
+<div1 id=ch67 n=LXVII>
+<head>LXVII.</head>
+
+
+
+<p>Al komt de avond met trage schreeden en wenkt dat alle gezangen zullen staken;
+
+<p>al zijn uw gezellen ter rust gegaan en zijt gij zelve moede;
+
+<p>al loert vrees in het donker en al is het gelaat des heemels omsluyerd;
+
+<p>toch, voogel! o mijn voogel, luister naar me, vouw uw vleugelen niet digt.
+
+<milestone unit=tb rend=space>
+
+<p>Dat donkere is niet het woud-gebladert, het is de zee, zwellend als een donkere zwarte slang.
+
+<p>Dat is niet de dans van jasmijn-bloesem, het is opblinkend schuim.
+
+<p>Ach, waar is de groene zonnige kust, waar is uw nest?
+
+<p>Voogel, mijn voogel, luister naar mij, vouw uw vleugelen niet digt.
+
+<milestone unit=tb rend=space>
+
+<p>Langs uwen weg ligt de eenzame nacht, de dageraad slaapt achter de schaduwige heuvelen.
+
+<pb n=102 id=pb102><p>De sterren tellen de uuren met ingehouden adem, de zwakke maan drijft door de scheemerige nacht.
+
+<p>Voogel! o mijn voogel, luister naar me, vouw uw vleugelen niet digt.
+
+<milestone unit=tb rend=space>
+
+<p>Voor u is er noch hoop, noch vrees.
+
+<p>Er is geen woord, geen fluistering, geen roep.
+
+<p>Geen thuis, geen rustplaats.
+
+<p>Niets als uw eigen vleugelpaar en de weegenlooze heemel.
+
+<p>Voogel, o mijn voogel, luister naar mij, vouw uw vleugelen niet digt.
+
+
+
+
+
+
+
+
+<pb n=103 id=pb103>
+<div1 id=ch68 n=LXVIII>
+<head>LXVIII.</head>
+
+
+
+<p>Niemand leeft eeuwig, broeder, en niets is duurzaam. Denk daarom en verheug u.
+
+<p>Ons leeven is niet altijd dezelfde oude last, onze weg is niet altijd dezelfde lange reis.
+
+<p>Een enkele dichter behoeft niet altijd dezelfde oude zang te zingen.
+
+<p>De bloem welkt en sterft; maar hij, die de bloem draagt, behoeft er niet eeuwen oover te rouwen.
+
+<p>Broeder, denk daarom en verheug u.
+
+<milestone unit=tb rend=space>
+
+<p>Er moet een volkoomen rustpooze zijn, om volmaaktheid te weeven in muziek.
+
+<p>Het leeven neigt naar zijn zonsondergang, om te verdrinken in de gouden schaduwen.
+
+<p>Liefde moet weggeworpen worden van haar spel, om smart te drinken en tot den tranenheemel opgevoerd te worden.
+
+<p>Broeder, denk daarom en verheug u.
+
+<milestone unit=tb rend=space>
+
+<p>We spoeden ons om onze bloemen te verzamelen, eer ze geroofd worden door de voorbijgaande wind.
+
+<pb n=104 id=pb104><p>Het doet ons bloed sneller gaan, en onze oogen helderder blinken, als wij kussen steelen, die zouden verlooren gaan door ons talmen.
+
+<p>Ons leeven is greetig, onze begeerten zijn fel, want Tijd luidt de afscheidsklok.
+
+<p>Broeder, denk daarom en verheug u.
+
+<milestone unit=tb rend=space>
+
+<p>Wij hebben den tijd niet om iets te omklemmen, te vermorzelen en dan weg te werpen in &apos;t stof.
+
+<p>De uuren trippelen schielijk weg, hun droomen verbergend in hun kleed.
+
+<p>Ons leeven is kort, het gunt ons maar enkele dagen voor liefde.
+
+<p>Voor werken en zwoegen zou het eindeloos lang zijn.
+
+<p>Broeder, denk daarom en verheug u.
+
+<milestone unit=tb rend=space>
+
+<p>Schoonheid is lieflijk voor ons, omdat zij danst op dezelfde vliedende deun als ons leeven.
+
+<p>Kennis is kostbaar voor ons, omdat wij nooit tijd zullen hebben haar te volmaken.
+
+<pb n=105 id=pb105><p>In den eeuwigen Heemel is alles af en voltooid.
+
+<p>Maar de aardsche illuzie-bloemen worden eeuwig frisch gehouden door den dood.
+
+<p>Broeder, denk daarom en verheug u.
+
+
+
+
+
+
+
+
+<pb n=106 id=pb106>
+<div1 id=ch69 n=LXIX>
+<head>LXIX.</head>
+
+
+
+<p>Ik jaag het gouden hert.
+
+<p>Lacht vrij, mijn vrienden, maar ik volg het vizioen dat mij ontwijkt.
+
+<p>Ik doorkruis heuvelen en dalen, ik zwerf door landen zonder naam, omdat ik het gouden hert jaag.
+
+<p>Gij komt ter markt en koopt, en keert huiswaarts beladen met waren,&mdash;maar de winden zonder te-huis hebben mij geraakt met hun toover, ik weet niet waar, noch wanneer.
+
+<p>Ik draag geen zorg in mijn hart; al het mijne liet ik verre achter mij.
+
+<p>Ik doorkruis heuvelen en dalen, ik zwerf door landen zonder naam&mdash;want ik jaag het gouden hert.
+
+
+
+
+
+
+
+
+<pb n=107 id=pb107>
+<div1 id=ch70 n=LXX>
+<head>LXX.</head>
+
+
+
+<p>Ik herinner mij een dag uit mijn kindertijd, waarop ik een papieren schuitje liet varen in een greppel.
+
+<p>Het was een reegen-dag in Juli; ik was alleen en gelukkig in mijn spelletje.
+
+<p>Ik liet mijn papieren schuitje varen in de greppel.
+
+<milestone unit=tb rend=space>
+
+<p>Plotseling werden de onweerswolken dikker, de wind kwam in vlagen, en de reegen viel bij stroomen.
+
+<p>Beekjes modderig water bruisten aan, deeden de stroom zwellen en mijn schuitje zinken.
+
+<p>Ik dacht met bitterheid, dat de storm opzettelijk was gekoomen om mijn plezier te bederven; al zijn boosaardigheid gold mij.
+
+<milestone unit=tb rend=space>
+
+<p>De wolkdonkere Juli-dag is heeden lang, en ik heb gepeinsd oover al die spelletjes in &apos;t leeven, waarin ik verloor.
+
+<p>Ik verweet mijn lot de veele streeken die het mij speelde,&mdash;toen dacht ik opeens aan mijn papieren schuitje, dat zonk in de greppel.
+
+
+
+
+
+
+
+
+<pb n=108 id=pb108>
+<div1 id=ch71 n=LXXI>
+<head>LXXI.</head>
+
+
+
+<p>De dag is nog niet voorbij, het marktfeest is nog niet ten einde, het marktfeest aan den stroom-oever.
+
+<p>Ik vreesde dat mijn tijd vermorst was en mijn laatste penning verlooren.
+
+<p>Maar neen, mijn broeder, ik heb nog iets oover. Het lot heeft mij niet alles ontfutseld.
+
+<milestone unit=tb rend=space>
+
+<p>Het koopen en verkoopen is gedaan.
+
+<p>De schulden aan weerszijden zijn geïnd, en het is tijd voor mij naar huis te gaan.
+
+<p>Tolwachter, eisch je je tolgeld?
+
+<p>Vrees niet, ik heb nog iets oover. Het lot heeft me niet alles ontfutseld.
+
+<milestone unit=tb rend=space>
+
+<p>Het luuwen van den wind dreigt met storm, en de in het westen dalende wolken voorspellen geen goeds.
+
+<p>Het verstomde water wacht op den wind.
+
+<p>Ik spoed mij om den stroom oover te steeken vóór den nacht.
+
+<pb n=109 id=pb109><p>O veerman, verlang je je veergeld?
+
+<p>Ja, broeder, ik heb nog iets oover. Mijn lot heeft me niet alles ontfutseld.
+
+<milestone unit=tb rend=space>
+
+<p>Aan den wegkant, onder den boom, zit de beedelaar. Helaas, hij ziet mij in &apos;t gelaat met schuchtere hoop!
+
+<p>Hij denkt dat ik rijk ben door de winst van den dag.
+
+<p>Ja, broeder, ik heb nog iets oover. Mijn lot heeft me niet alles ontfutseld.
+
+<milestone unit=tb rend=space>
+
+<p>De nacht wordt donker en eenzaam de weg. Glimwormen glanzen tusschen de bladeren.
+
+<p>Wie zij gij, die mij volgt met sluipend stille schreeden?
+
+<p>O, ik weet, gij wilt mij berooven van al mijn winsten. Ik zal u niet teleurstellen.
+
+<p>Want ik heb nog iets oover, mijn lot heeft mij niet alles ontfutseld.
+
+<milestone unit=tb rend=space>
+
+<p>Te middernacht kom ik thuis. Mijn handen zijn leeg.
+
+<pb n=110 id=pb110><p>Gij wacht met angstige oogen aan mijn deur, zwijgend en slapeloos.
+
+<p>Als een vreesachtige voogel vliegt ge aan mijn borst met greetige liefde.
+
+<p>Ja, ja, mijn God, er is nog veel oover.
+
+<p>Mijn lot heeft mij niet alles ontfutseld.
+
+
+
+
+
+
+
+
+<pb n=111 id=pb111>
+<div1 id=ch72 n=LXXII>
+<head>LXXII.</head>
+
+
+
+<p>Ik bouwde eenen tempel met dagen van harden arbeid. Hij had deuren noch vensters, zijn muuren waren dik gemetseld van massieven steen.
+
+<p>Ik vergat al het andere, ik vermeed de waereld, ik staarde in verrukte aanschouwing naar het beeld, dat ik op het altaar had gezet.
+
+<p>Binnen was het altijd nacht, verlicht door lampen met geurige olie.
+
+<p>De gestadige walm van wierook wond mijn hart in zijn zware kronkels.
+
+<p>Slapeloos grifte ik op de muuren fantastische figuuren in verbijsterend verwikkelde lijnen&mdash;gevleugelde paarden, bloemen met menschengelaat,&mdash;vrouwen met slangeleeden.
+
+<p>Geen doorgang was ergens gelaten, waardoor voogelgezang, blad-geruisch, of druk dorpsgerucht zou kunnen dringen.
+
+<p>De eenige klank, die echoode in den donkeren dom, was mijn psalm-gezang.
+
+<pb n=112 id=pb112><p>Mijn geest werd scherp en stil als een puntige vlam, mijn zinnen zwijmden in ekstaze.
+
+<p>Ik weet niet hoe de tijd verging, totdat de donderkeil in den tempel sloeg, en een pijn mij door het hart stak.
+
+<milestone unit=tb rend=space>
+
+<p>De lamp zag bleek en beschaamd; de griftsels op de muuren zagen, als gekeetende droomen, weezenloos in het licht, alsof ze zich wel wilden verschuilen.
+
+<p>Ik keek naar het beeld op het altaar. Ik zag dat het glimlachte, leevend door de leevendige aanraking Gods. De nacht, dien ik gekerkerd had, spreidde zijn vleugelen en verzwond.
+
+
+
+
+
+
+
+
+<pb n=113 id=pb113>
+<div1 id=ch73 n=LXXIII>
+<head>LXXIII.</head>
+
+
+
+<p>Uw rijkdom is niet oneindig, mijn geduldige en donkere moeder aarde!
+
+<p>Gij zwoegt om de monden uwer kinderen te vullen, maar voedsel is schaars.
+
+<p>De gave der blijdschap, die gij voor ons hebt, is nooit volkoomen.
+
+<p>Het speelgoed, dat ge voor uw kinderen maakt, is broos.
+
+<p>Gij kunt al onze hongerige <corr sic=verwachtigen>verwachtingen</corr> niet voldoen, maar zou ik u daarom verlaten?
+
+<p>Uw door smart beschaduwde glimlach is liefelijk voor mijn oogen.
+
+<p>Uw liefde, die geen voleindiging kent, is mijn hart dierbaar.
+
+<p>Gij hebt ons uit uw borst gevoed met leeven, niet met onsterfelijkheid, daarom zijn uw oogen altijd waaksaam.
+
+<p>Aeonen lang werkt gij met kleur en zang, toch is uw heemel niet gebouwd, alleen zijn droeve aanduiding.
+
+<pb n=114 id=pb114><p>Oover uwe schoonheids-scheppingen ligt de tranen-neevel.
+
+<p>Ik zal mijn zangen storten in uw zwijgend hart, en mijn liefde in uwe liefde.
+
+<p>Ik zal u eeren door arbeid.
+
+<p>Ik heb uw zacht gelaat gezien en ik min uw rouw-vol stof, moeder aarde.
+
+
+
+
+
+
+
+
+<pb n=115 id=pb115>
+<div1 id=ch74 n=LXXIV>
+<head>LXXIV.</head>
+
+
+
+<p>In de gehoorzaal der waereld zit de simpele grashalm op hetzelfde tapijt met de zonnestraal en de middernacht-sterren.
+
+<p>Zoo deelen mijn zangen hun zeetels, in het hart der waereld, met de muziek van wolken en wouden.
+
+<p>Maar uw weelde, gij rijkaard, heeft geen deel in de soobere grootheid van het blijde zonnegoud, of van het weeke blinken der peinzende maan.
+
+<p>De zeegen van den al-omvangenden heemel wordt er niet oover uitgestort.
+
+<p>En als de dood komt, verbleekt ze, en verschrompelt en verkruimelt tot stof.
+
+
+
+
+
+
+
+
+<pb n=116 id=pb116>
+<div1 id=ch75 n=LXXV>
+<head>LXXV.</head>
+
+
+
+<p>Een, die zich askeet waande, zei te middernacht:
+
+<p>&bdquo;Nu is het tijd om mijn thuis te verzaken en God te zoeken. Ach, wie heeft mij hier zoo lang in verblinding gehouden?&rdquo;
+
+<p>God fluisterde: &bdquo;Ik&rdquo;, maar de ooren van den man waren verstopt.
+
+<p>Met haar zuigeling slapend aan haar boezem, lag zijn vrouw in vreedigen slaap aan een kant van het bed.
+
+<p>De man zeide: &bdquo;Wie zijt gij, die mij zoolang bedot hebt?&rdquo;
+
+<p>De stem zeide weer: &bdquo;Zij zijn God&rdquo;, maar hij hoorde niet.
+
+<p>De zuigeling riep in zijn droom en nestelde zich digt aan de moeder.
+
+<p>God gebood: &bdquo;Houd in, dwaas, verlaat uw thuis niet&rdquo; maar nog hoorde hij niet.
+
+<p>God zuchtte en klaagde: &bdquo;Waarom gaat mijn dienstknecht zwerven om mij te zoeken, terwijl hij mij verzaakt?&rdquo;
+
+
+
+
+
+
+
+
+<pb n=117 id=pb117>
+<div1 id=ch76 n=LXXVI>
+<head>LXXVI.</head>
+
+
+
+<p>Vóór den tempel was het marktfeest in vollen gang. Het had gereegend van den vroegen morgen, en de dag neigde ten einde.
+
+<p>Blijder dan al de pret der meenigte was de blijde glimlach van een meisje, dat voor een penning een fluitje van palmblad had gekocht.
+
+<p>De schrille vreugd van dat fluitje steeg uit booven al het gelach en rumoer.
+
+<p>Een eindelooze meenigte volks kwam en verdrong elkaar. De weg was modderig, de rivier gezwollen, het veld stond onder water door gestadigen reegen.
+
+<p>Bitterder dan alle nooden der meenigte was de nood van een kleinen jongen&mdash;hij had geen penning om een gekleurde stok te koopen.
+
+<p>De heele menschen-bijeenkomst werd erbarmelijk door zijn weemoedig verlangende oogen, die naar den winkel staarden.
+
+
+
+
+
+
+
+
+<pb n=118 id=pb118>
+<div1 id=ch77 n=LXXVII>
+<head>LXXVII.</head>
+
+
+
+<p>De arbeider en zijn vrouw, uit het westelijk land, zijn beezig met graven, om steenen te maken voor den ooven.
+
+<p>Hun dochtertje gaat naar de aanleg-plaats bij de rivier; daar gaat ze potten en pannen schuuren en schrobben zonder end.
+
+<p>Haar broertje, met geschooren hoofdje en bruine, naakte, bemodderde leeden, gaat haar na en wacht, naar haar aanwijzing, geduldig op den hoogen oever.
+
+<p>Ze keert huiswaarts, met de volle kruik in eevenwicht op haar hoofd, het blinkende koopervat in haar linkerhand, het kind vasthoudend met haar rechter&mdash;als het dienaresje van haar moeder, ernstig door &apos;t gewigt van huisselijke beslommering.
+
+<p>Eens zag ik den naakten jongen met uitgestrekte beenen neerzitten.
+
+<p>Zijn zuster zat in het water en schuurde met een handvol aarde een drinkvat, dat ze om en om draaide.
+
+<pb n=119 id=pb119><p>Een zachtharig lammetje stond digtbij op den oever te grazen.
+
+<p>Hij naderde de plaats, waar de jongen zat en blaatte op eenmaal luid, <corr sic=hed>het</corr> kind verschrok en schreeuwde.
+
+<p>Zijn zuster staakte het reinigen van haar vaatwerk en liep toe.
+
+<p>Zij nam broertje in één arm en lammetje in den anderen, en haar liefkoozingen tusschen beiden verdeelend, verbond ze in één liefdeband het kroost van dier en mensch.
+
+
+
+
+
+
+
+
+<pb n=120 id=pb120>
+<div1 id=ch78 n=LXXVIII>
+<head>LXXVIII.</head>
+
+
+
+<p>Het was in Mei. De drukkende middag scheen eindeloos. De drooge aarde gaapte van dorst in de hitte.
+
+<p>Toen hoorde ik van den stroom-oever een stem, roepend: &bdquo;Kom dan, lievert!&rdquo;
+
+<p>Ik sloot mijn boek en oopende mijn venster om naar buiten te zien.
+
+<p>Ik zag een groote buffel met modder-bevlekte huid bij de rivier staan, met goedige, geduldige oogen; en een jongeling, tot de knie in &apos;t water wadend, riep hem naar zijn bad.
+
+<p>Ik had plezier en glimlachte en voelde iets liefelijks in mijn hart.
+
+
+
+
+
+
+
+
+<pb n=121 id=pb121>
+<div1 id=ch79 n=LXXIX>
+<head>LXXIX.</head>
+
+
+
+<p>Dikwijls vraag ik verwonderd, waar de grenzen van herkenning verborgen liggen tusschen den mensch en het beest, wiens hart geen gesprooken taal kent.
+
+<p>Door welk oer-paradijs in de verre scheppingsmorgen liep het eenvoudige pad, waarop hun harten elkaar bezochten?
+
+<p>Deeze spooren van hun gestadigen tred zijn niet uitgewischt, al is hun verwantschap lang vergeeten.
+
+<p>En plotseling in een of andere woordelooze muziek ontwaakt de scheemerige herinnering&mdash;en het dier staart den mensch in &apos;t gelaat met teeder vertrouwen, en de mensch ziet het dier in de oogen met glimlachende geneegenheid.
+
+<p>Het is dan als ontmoetten de twee vrienden elkaar gemaskerd, en herkennen weifelend elkander in de vermomming.
+
+
+
+
+
+
+
+
+<pb n=122 id=pb122>
+<div1 id=ch80 n=LXXX>
+<head>LXXX.</head>
+
+
+
+<p>Met één blik van uw oogen zoudt ge den ganschen liederen-rijkdom van de harpen der dichters kunnen rooven, schoone vrouw.
+
+<p>Maar gij hebt geen ooren voor hun lof, daarom kom ik u prijzen.
+
+<p>De hoogmoedigste hoofden ter waereld zoudt ge aan uw voeten kunnen verneederen.
+
+<p>Maar gij verkiest uw geliefden te eeren, die de faam niet kent, daarom eer ik u.
+
+<p>De volmaakte schoonheid van uw armen zou de gloorie van kooninklijke pracht verhoogen door hun aanraking.
+
+<p>Maar ge beezigt hen om het stof te veegen, en uw neederig huis rein te houden, daarom ben ik met ontzag vervuld.
+
+
+
+
+
+
+
+
+<pb n=123 id=pb123>
+<div1 id=ch81 n=LXXXI>
+<head>LXXXI.</head>
+
+
+
+<p>Waarom fluistert gij zoo zwakjes aan mijn oor, O Dood, mijn Dood?
+
+<p>Als de bloemen zich neigen in den avondstond, en het vee terugkeert tot zijn stallen, dan komt gij ter sluiks aan mijn zijde en fluistert woorden die ik niet versta.
+
+<p>Moet gij mij aldus werven en winnen met het heulsap van droomerig gemurmel en koude kussen, O Dood, mijn Dood?
+
+<milestone unit=tb rend=space>
+
+<p>Zal er geen pralende plechtigheid zijn bij onze bruiloft?
+
+<p>Zult gij uw verkronkelde, tanige haren niet opbinden met een krans?
+
+<p>Zal niemand uw banier voor u uitdragen, en zal de nacht niet in gloed staan door uw roode toorts-vlammen, O Dood, mijn Dood?
+
+<milestone unit=tb rend=space>
+
+<p>Kom met klinkende kinkhoorns, kom in den slapeloozen nacht.
+
+<p>Kleed mij in een karmozijn-mantel, grijp mijn hand en neem mij.
+
+<pb n=124 id=pb124><p>Laat uw wagen klaar staan voor mijn deur, met ongeduldig hinnikende paarden.
+
+<p>Ligt mijn sluyer op en zie mij fier in &apos;t gelaat, O Dood, mijn Dood.
+
+
+
+
+
+
+
+
+<pb n=125 id=pb125>
+<div1 id=ch82 n=LXXXII>
+<head>LXXXII.</head>
+
+
+
+<p>Wij gaan vannacht het spel van den dood speelen, mijn bruid en ik.
+
+<p>De nacht is zwart, de wolken aan den heemel zijn grillig, en op zee razen de golven.
+
+<p>We hebben het bed onzer droomen verlaten, de deur oopengeworpen en zijn naar buiten gegaan, mijn bruid en ik.
+
+<p>Wij zitten op een schommel en de stormwinden geeven ons van achtern een wilde duuw.
+
+<p>Mijn bruid schrikt op van vrees en vreugde, siddert en klemt zich aan mijn borst.
+
+<p>Lang heb ik haar teederlijk gediend.
+
+<p>Ik maakte voor haar een bed van bloemen, en ik sloot de deuren om het felle licht van haar oogen te weeren.
+
+<p>Ik kuste haar ligtelijk op de lippen, en fluisterde zachtkens in haar oor, tot zij half zwijmde in oovergave.
+
+<p>Zij was verlooren in de eindelooze neevel van vage zoetheid.
+
+<pb n=126 id=pb126><p>Ze beantwoordde mijn aanraking niet, mijn zangen konden haar niet wekken.
+
+<p>Vannacht is de roep tot ons gekoomen van den storm der wildernis,
+
+<p>Mijn bruid huiverde en stond op, ze greep mijn hand en ging naar buiten.
+
+<p>Heur haar fladdert in den wind, haar sluyer wappert, haar bloemen-snoer ritselt op haar boezem.
+
+<p>De duuw des Doods heeft haar in &apos;t leeven geslingerd.
+
+<p>Wij zijn aangezicht aan aangezicht en hart aan hart, mijn bruid en ik.
+
+
+
+
+
+
+
+
+<pb n=127 id=pb127>
+<div1 id=ch83 n=LXXXIII>
+<head>LXXXIII.</head>
+
+
+
+<p>Zij woonde op de heuvel-helling aan den rand van een maïsveld, digtbij de beek, die in lachende rimpels door de plechtige schaduw van oude boomen stroomt. Daar kwamen de vrouwen om hun kruiken te vullen, en voetgangers zaten er te rusten en te praten. Zij werkte en droomde er dagelijks, bij den deun van het kabbelende water.
+
+<p>Op een avond kwam de vreemdeling van de in-wolken-verborgen top afdalen; zijn lokken waren ineengekronkeld als slaperige slangen. Wij vroegen verwonderd: &bdquo;Wie zijt gij?&rdquo; Hij antwoordde niet, maar zat neer bij de praatzieke stroom en staarde zwijgend naar de hut waar zij woonde. Onze harten trilden van vrees en wij kwamen thuis toen het nacht was.
+
+<p>Den volgenden morgen, toen de vrouwen kwamen om water te halen uit de bron bij de <hi>deodar</hi> boomen, vonden zij de deuren in haar hut oopen, maar haar stem was weg en waar was haar lachend gelaat?
+
+<pb n=128 id=pb128><p>De leege kruik lag op den vloer en haar lamp was vanzelf uitgebrand in den hoek. Niemand wist waarheen zij gevlucht was, totdat de morgen kwam&mdash;en de vreemdeling verdweenen was.
+
+<p>In de maand Mei werd de zon krachtig en de sneeuw smolt, en wij zaten bij de bron en weenden. We vroegen ons af: &bdquo;zou er een bron zijn in &apos;t land waarheen ze is gegaan, waar ze haar kruik kan vullen in deeze heete dorstige dagen?&rdquo; En wij vroegen elkander neerslachtig: &bdquo;Is er land aan géne kant van onze heuvelen?&rdquo;
+
+<p>Het was een zoomernacht; het briesje kwam van &apos;t zuiden; en ik zat in haar verlaten kamer, waarin de lamp nog altijd onaangestooken stond. Toen plotseling de heuvelen voor mijn oogen verdweenen als weggeschooven gordijnen. &bdquo;Ach, zij is het die aankomt. Hoe gaat het, mijn kind? Ben je gelukkig? Maar waar kun je schuilen onder deezen vrijen heemel? En helaas! onze beek is er niet, om je dorst te stillen.&rdquo;
+
+<pb n=129 id=pb129><p>&bdquo;Hier is dezelfde heemel,&rdquo; zeide zij &bdquo;maar vrij van de beschuttende heuvels&mdash;dit is dezelfde stroom, gezwollen tot een rivier&mdash;dezelfde aarde, verwijd tot <corr sic=en>een</corr> vlakte&rdquo;. &bdquo;Alles is hier&rdquo; zuchtte ik &bdquo;alleen wijzelven zijn er niet&rdquo;. Zij glimlachte droeviglijk en zeide: &bdquo;Je bent in mijn hart&rdquo;. Ik ontwaakte en hoorde het kabbelen van den stroom en het nachtelijk ruischen der <hi>deodars</hi>.
+
+
+
+
+
+
+
+
+<pb n=130 id=pb130>
+<div1 id=ch84 n=LXXXIV>
+<head>LXXXIV.</head>
+
+
+
+<p>Oover de groen-en-geele rijstvelden slieren de schaduwen van de herfstwolken, gevolgd door de snel-jagende zonneschijn.
+
+<p>De bijen vergeeten hun hoonig te nippen; verdwaasd zweeven en zoemen ze, dronken van licht.
+
+<p>De eenden, op de eilanden in de rivier, tieren van plezier om louter niets.
+
+<p>Laat niemand naar huis teruggaan deezen morgen, broeders, laat niemand aan &apos;t werk gaan.
+
+<p>Laat ons den blaauwen heemel stormender hand neemen, en de ruimte plunderen bij &apos;t loopen.
+
+<p>Lachen drijft in de lucht, als schuim op den vloed.
+
+<p>Broeders, laat ons onzen morgen verspillen in nuttelooze liederen.
+
+
+
+
+
+
+
+
+<pb n=131 id=pb131>
+<div1 id=ch85 n=LXXXV>
+<head>LXXXV.</head>
+
+
+
+<p>Wie zijt gij, leezer, die mijn gedichten leest oover honderd jaar?
+
+<p>Ik kan u geen enkele bloem zenden van deeze lente-weelde, geen enkele gouden stréép van gindsche wolken.
+
+<p>Oopen uw deuren en zie naar buiten.
+
+<p>Verzamel uit uw bloeyende hof geurige herinneringen, van de verdweenen bloemen van voor honderd jaar.
+
+<p>Moogt gij in de vreugde uws harten de leevende vreugde voelen, die op een lentemorgen zong, en haar blijde stem heen zond oover honderd jaren.
+
+
+
+<back id=backmatter>
+<div1 id=backcover type=Cover>
+
+
+<p><figure id=back>
+<figDesc>Oorspronkelijke achterkant.</figDesc>
+</figure>
+
+
+</div1>
+
+<divGen id=toc type=toc>
+
+<divGen type=Colophon>
+
+
+</back>
+</text>
+</TEI.2>
+
+<!--
+
+CHECKLIST (X = done; / = not applicable)
+
+Initial cleanup
+
+[ ] Check all pb-tags, and join lines
+[ ] Move all footnotes in-line
+[ ] Tag headers
+[X] Fix all [** Proofer comments]
+[ ] Start all paragraphs with the p-tag
+[ ] Change b, sc, g tags to hi tags with correct attributes.
+[ ] Change tb tags to milestone tags.
+[ ] Fix multiple spaces in a row
+[ ] Verify all paragraphs start with p-tag, also those starting with a tag.
+
+TEI header
+
+[ ] Add TEI header.
+[ ] Fill in details in TEI header
+[ ] Verify Author dates and add to TEI header.
+[ ] Document on-line scan sources.
+[ ] Fill in description in noteStmt.
+[ ] Fill in keywords / Subjects
+[ ] Add auto-generated colophon divGen tag.
+[ ] Fill in reference to LOC record (https://catalog.loc.gov/).
+[ ] Fill in reference to OpenLibrary record (https://openlibrary.org).
+[ ] Fill in reference to WorldCat record (source and work) (https://www.worldcat.org).
+[ ] Generate unique epub-id. (https://www.guidgenerator.com/)
+
+Verse
+
+[ ] Tag all verse.
+[ ] Apply proper indentation: rend=&bdquo;indent(2)&rdquo;
+
+Lists
+
+[ ] Tag all lists.
+
+Tables
+
+[ ] Format tables
+[ ] Apply ditto-tags.
+
+Table of Contents
+
+[ ] Format table(s) of contents
+[ ] Link entries in table of contents
+[ ] Verify each link
+[ ] Compare with generated table of contents
+
+Images
+
+[ ] Include all illustrations
+[ ] Verify positioning of images makes sense.
+
+Spelling
+
+[ ] Verify generated wordlist
+[ ] Tag language usage
+
+Tools
+
+[ ] Verify Gutcheck
+[ ] Verify jeebees
+
+Miscellany
+
+[ ] Check for [Greek: ...] notation
+[ ] Curlify quotes
+[ ] Check for wrong quotes
+[ ] Disambiguate single quotes, apostrophes, and primes.
+[ ] Unwrap lines
+[ ] Check for lines not unwrapped
+[ ] Verify sequence of page-numbers
+[ ] Handle fractions, such as 1/2.
+        ([0-9])\&ndash;([0-9])/([0-9])      \1\&frac\2\3;
+        ([0-9])/([0-9])                     \&frac\1\2;
+        ([0-9])\&ndash;([0-9]+)/([0-9]+)    \1\&frac\2-\3;
+        ([0-9]+)/([0-9]+)                   \&frac\1-\2;
+[ ] Converted all fragments in uppercase to mixed case.
+
+Text Version
+
+[ ] Remove FIGURE notations
+[ ] Verify empty lines between chapter headings
+[ ] Verify empty lines around poetry and lists
+[ ] Center poetry
+[ ] Format title page
+[ ] Remove Ads
+[ ] Format Tables
+[ ] Verify Greek and other transliterations
+
+Additional Checks and Edits (Add as needed for a specific book)
+
+[ ] ....
+
+Post-Posting
+
+[ ] Update status to 1.0 (i.e. Posted).
+[ ] Include PG number and posting date in metadata
+
+-->
